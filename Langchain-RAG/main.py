@@ -7,8 +7,7 @@ import openai
 import os
 from dotenv import load_dotenv
 
-load_dotenv(raise_if_not_found=False)
-
+load_dotenv()
 
 # Custom embeddings using Tentris endpoint
 class TentrisEmbeddings(Embeddings):
