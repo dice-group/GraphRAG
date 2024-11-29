@@ -1,0 +1,70 @@
+{
+    "benchmark_data": [
+        {
+            "id": 1,
+            "question": "Who is the head of DICE Research?",
+            "answer": "The head of DICE Research is Axel-Cyrille Ngonga Ngomo, a professor and doctor."
+        },
+        {
+            "id": 2,
+            "question": "What are all the projects Caglar Demir is involved in?",
+            "answer": "Caglar Demir is involved in the following projects:\n\nLEMUR\nSAIL\nembeddings.cc\nDAIKIRI\nOPAL\nRAKI\nENEXA"
+        },
+        {
+            "id": 3,
+            "question": "In which office is Simone Auinger located?",
+            "answer": "Simone Auinger is located in office TP6.3.107."
+        },
+        {
+            "id": 4,
+            "question": "What are all the contact methods for Dr. Michael Röder?",
+            "answer": "Dr. Michael Röder can be contacted through the following methods:\nPhone: +49-525-16-03894\nFax: +49-525-16-03436\nEmail: michael.roeder@uni-paderborn.de\nChat: @mroeder:chat.dice-research.org\nAdditionally, his office is located at TP6.3.108, and he has speaking hours on Monday from 14:00 to 16:00. However, it is recommended to make an appointment via email before visiting."
+        },
+        {
+            "id": 5,
+            "question": "How can someone schedule a meeting with Umair Qudus?",
+            "answer": "To schedule a meeting with Umair Qudus, you should first check his speaking hours, which are on Monday from 14:00 to 16:00. However, it is essential to send an email to confirm his availability before visiting. You can contact him via email at uqudus@mail.uni-paderborn.de. Additionally, you can reach out to him through chat at @uqudus:chat.dice-research.org to discuss the meeting or to confirm the details. If you prefer, you can also call him at +49-525-16-05190 to arrange the meeting."
+        },
+        {
+            "id": 6,
+            "question": "Which researchers are involved in the 'embeddings.cc' project?",
+            "answer": "The researchers involved in the 'embeddings.cc' project include:\nDr. rer. nat. Caglar Demir\nDr. Hamada Zahera\nProf. Dr. Axel-Cyrille Ngonga Ngomo\nThese individuals have been mentioned as being involved in the 'embeddings.cc' project in the provided context."
+ 
+        },
+        {
+            "id": 7,
+            "question": "List all projects that Caglar Demir and Adrian Wilke are involved in.",
+            "answer": "Caglar Demir and Adrian Wilke are involved in the following projects:\n\nOPAL\nDAIKIRI\nembeddings.cc\nRAKI\n\nAdditionally, Caglar Demir is involved in:\n\nLEMUR\nSAIL\nENEXA\n\nAdrian Wilke is involved in:\n\nFROCKG\nSPEAKER\nEML4U\nDATEV\nOpenTrafficDetection\nKIAM"
+        },
+        {
+            "id": 8,
+            "question": "Which alumni were involved in the OPAL project?",
+            "answer": "The alumni involved in the OPAL project are:\nGeraldo de Souza\nZafar Syed\nArwa Bannoura\nAfshin Amini\nThese individuals have been explicitly mentioned as being involved in the OPAL project."
+        },
+        {
+            "id": 9,
+            "question": "What are Nikit Srivastava's research interests and areas open for collaboration?",
+            "answer": "It appears that Nikit Srivastava's research interests and areas open for collaboration were not provided in the context given. To provide an accurate answer, we would need specific information about Nikit Srivastava's profile, similar to the details provided for other researchers at DICE Research. If you have additional information about Nikit Srivastava, please provide it, and I will be able to answer your question."
+        },
+        {
+            "id": 10,
+            "question": "What are Manzoor Ali's research interests and areas open for collaboration?",
+            "answer": "Manzoor Ali's research interests include Natural Language Processing, Semantic Web, and Generative AI. He is open to collaborations in the following areas:\nRelation Extraction\nInformation Extraction\nInformation Retrieval\nKnowledge Graph Construction\nKnowledge Graph Completion\nFine-tuning and in-context learning of Large Language Models (LLMs)"
+        },
+        {
+            "id": 11,
+            "question": "Is there any student researcher involved in ClimatebOWL project?",
+            "answer": "Yes, Ajay Kumar is a student researcher working on the ClimatebOWL project. His email is ajayk@campus.uni-paderborn.de, and his photo is available as ajayKumar.jpeg."
+        },
+        {
+            "id": 12,
+            "question": "Who has supervised the thesis on LLM?",
+            "answer": "The information provided does not specify who has supervised a thesis on LLM (Large Language Models). However, Dr. rer. nat. Caglar Demir has supervised a thesis on answering complex queries with negations in incomplete knowledge graphs. If you are looking for a supervisor for a thesis on LLM, it might be worth checking if any of the researchers, particularly those with a focus on machine learning or natural language processing, have experience or interest in this area. Dr. rer. nat. Arnab Sharma, for instance, has research interests that include robustness in graph machine learning, explainable machine learning, and security in graph machine learning, which might be related to LLMs. However, without specific information, it's not possible to definitively state who has supervised a thesis on LLM."
+        },
+        {
+            "id":13,
+            "question":"What is the role of Shivam at DICE? Explain a bit about it.",
+            "answer": "Shivam Sharma is involved in the WHALE project at DICE Research, where his role is focused on infrastructure. This typically means that he is responsible for the setup, maintenance, and management of the technical infrastructure that supports the WHALE project. This can include hardware, software, network configurations, and cloud services that are essential for the project's operations. His role is crucial for ensuring that the project has a stable and efficient environment to conduct its research and development activities."
+        }
+    ]
+}
