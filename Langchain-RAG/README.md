@@ -45,3 +45,7 @@ streamlit run main.py
 1. Type your question in the text box
 2. Click 'Get Answer'
 3. Wait for the response
+
+## Testing with Benchmark Dataset
+- For testing the system, you can use the provided `benchmark_dataset.json` in the directory. 
+- This JSON file contains Q&A pairs specific to the DICE data for evaluating how the RAG system performs with the provided knowledge.
