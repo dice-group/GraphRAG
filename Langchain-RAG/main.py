@@ -28,16 +28,20 @@ class TentrisEmbeddings(Embeddings):
 
 @st.cache_resource
 def initialize_qa_system():
-    # Load and split document
-    loader = TextLoader("data/speech.txt")
-    documents = loader.load()
-    
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=200)
-    docs = text_splitter.split_documents(documents)
-    
-    # Create vector store with custom embeddings
-    embeddings = TentrisEmbeddings()
-    db = FAISS.from_documents(docs, embeddings)
+    embeddings= TentrisEmbeddings()
+    index_path=("faiss_index")
+
+    if os.path.exists(index_path):
+        db=FAISS.load_local(index_path,embeddings, allow_dangerous_deserialization=True)
+    else:
+        # Load and split document
+        loader = TextLoader("data/speech.txt")
+        documents = loader.load()
+        
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=200)
+        docs = text_splitter.split_documents(documents)
+        db=FAISS.from_documents(docs,embeddings)
+        db.save_local(index_path)
     
     # Setup chat client
     chat_client = openai.OpenAI(
