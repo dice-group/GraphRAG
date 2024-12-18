@@ -69,6 +69,7 @@ def get_answer(question, db, chat_client):
     return response.choices[0].message.content
 
 def main():
+    st.cache_resource.clear()
     st.set_page_config(page_title="Chatbot Q&A System", page_icon="🤖")
     
     st.title("📚 Chatbot Question & Answer System")
