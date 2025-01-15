@@ -18,28 +18,28 @@ Input & Usage:
         - TENTRIS_BASE_URL_EMBEDDINGS: Base URL for the embedding API
 
 Computation Process:
-    1. **Setup API Clients (chat & embedding)**:
+    1. Setup API Clients (chat & embedding):
         - Validates environment variables and initializes clients for chat and embedding using LiteLLM endpoints.
         - Tests connectivity via minimal chat completion and embedding calls.
 
-    2. **Load and Split Documents**:
+    2. Load and Split Documents:
         - Reads the specified document file into memory using TextLoader.
         - Splits the text into smaller, semantically coherent chunks using LangChain's RecursiveCharacterTextSplitter.
 
-    3. **Create Knowledge Base from Chunks**:
+    3. Create Knowledge Base from Chunks:
         - Converts document chunks into a DataFrame and initializes a Giskard KnowledgeBase.
         - Computes vector embeddings for each chunk using the configured embedding model.
         - Performs topic detection via UMAP (dimensionality reduction) and HDBSCAN (clustering).
         - Generates topic names using LLM-based summarization prompts.
 
-    4. **Generate Test Questions**:
+    4. Generate Test Questions:
         - Utilizes Giskard's question generators (e.g., simple, complex, situational) to create QA pairs:
             - Randomly selects seed documents and identifies relevant neighbors using similarity search.
             - Constructs a context string for each generator.
             - Queries the LLM to produce a question and reference answer pair.
         - Aggregates all generated QA pairs into a QATestset for evaluation.
 
-    5. **Save Test Set to JSON**:
+    5. Save Test Set to JSON:
         - Serializes the QA pairs, including metadata (e.g., question type, topic, seed document ID), into a JSONL file (benchmark_dataset.json).
 
 Output:
