@@ -1,0 +1,1481 @@
+No.,Subgraph,Verbalization
+0,"https://dice-research.org/SimonBin https://schema.dice-research.org/name Simon Bin
+https://dice-research.org/SimonBin https://schema.dice-research.org/content 
+https://dice-research.org/SimonBin https://schema.dice-research.org/email mailto:sbin@informatik.uni-leipzig.de
+https://dice-research.org/SimonBin https://schema.dice-research.org/chat @sbin:chat.dice-research.org
+https://dice-research.org/SimonBin https://schema.dice-research.org/namePrefix 
+https://dice-research.org/SimonBin http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/SimonBin https://schema.dice-research.org/phone tel:+49-341-22903736
+https://dice-research.org/SimonBin https://schema.dice-research.org/project https://dice-research.org/DAIKIRI
+https://dice-research.org/SimonBin https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/SimonBin https://schema.dice-research.org/office Leipzig
+","Simon Bin is a person who was affiliated with DICE Research. He has worked on the DAIKIRI project and is listed as an alumnus. Simon's email is sbin@informatik.uni-leipzig.de, and his chat handle is @sbin:chat.dice-research.org. His phone number is +49-341-22903736, and his office is located in Leipzig."
+1,"https://dice-research.org/JanReineke https://schema.dice-research.org/office TP6.3.307
+https://dice-research.org/JanReineke https://schema.dice-research.org/name Jan Reineke
+https://dice-research.org/JanReineke https://schema.dice-research.org/content 
+https://dice-research.org/JanReineke https://schema.dice-research.org/namePrefix 
+https://dice-research.org/JanReineke https://schema.dice-research.org/email mailto:jan.reineke@uni-paderborn.de
+https://dice-research.org/JanReineke https://schema.dice-research.org/chat @jarei:chat.dice-research.org
+https://dice-research.org/JanReineke https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/JanReineke http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/JanReineke https://schema.dice-research.org/phone tel:+49-525-16-05190
+https://dice-research.org/JanReineke https://schema.dice-research.org/fax tel:
+https://dice-research.org/JanReineke https://schema.dice-research.org/photo reineke.jpg
+","Jan Reineke is an alumnus of DICE Research and holds the position of Person. His office is located at TP6.3.307. His email address is jan.reineke@uni-paderborn.de, and his chat handle is @jarei:chat.dice-research.org. His phone number is +49-525-16-05190, and his photo is available at reineke.jpg."
+2,"https://dice-research.org/ReneSpeck https://schema.dice-research.org/office TP6.3.102
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/chat @rspeck:chat.dice-research.org
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/fax tel:
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/GEISER
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/Qamel
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/SAIM
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/BioASQ
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/DIESEL
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/SCMS
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/RAKI
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/project https://dice-research.org/Gerbil
+https://dice-research.org/ReneSpeck http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/name René Speck
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/email mailto:rene.speck@uni-paderborn.de
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/namePrefix 
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/content 
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/phone tel:
+https://dice-research.org/ReneSpeck https://schema.dice-research.org/photo speck.jpg
+","René Speck is a research staff member at DICE Research. He is located in office TP6.3.102 and can be reached via chat at @rspeck:chat.dice-research.org. René is involved in several projects, including GEISER, HOBBIT, Qamel, SAIM, BioASQ, DIESEL, SCMS, RAKI, and Gerbil. His email address is rene.speck@uni-paderborn.de, and his photo is available as speck.jpg."
+3,"https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/OpenTrafficDetection
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/QAMEL
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/DIESEL
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/SAKE
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/LinkingLOD
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/SCMS
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/SAGE
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/BDE
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/GEISER
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/SLIPO
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/embeddings.cc
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/ENEXA
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/project https://dice-research.org/GeoKnow
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/chat @ngonga:chat.dice-research.org
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/office TP6.3.106
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/fax tel:+49-525-16-03436
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/email mailto:axel.ngonga@upb.de
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/role https://dice-research.org/Head
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/phone tel:+49-525-16-03342
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/namePrefix Prof. Dr.
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/name Axel-Cyrille Ngonga Ngomo
+https://dice-research.org/AxelCyrilleNgongaNgomo http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/content 
+https://dice-research.org/AxelCyrilleNgongaNgomo https://schema.dice-research.org/photo ngonga.jpg
+","Axel-Cyrille Ngonga Ngomo, a professor and doctor, is the head of DICE Research. He is involved in various projects including OpenTrafficDetection, QAMEL, SAIL, OPAL, DIESEL, SAKE, LinkingLOD, SCMS, SAGE, BDE, GEISER, SLIPO, HOBBIT, embeddings.cc, ENEXA, and GeoKnow. He can be reached via email at axel.ngonga@upb.de, by phone at +49-525-16-03342, or by fax at +49-525-16-03436. His office is located in TP6.3.106, and he is available for chat at @ngonga:chat.dice-research.org. His photo is available as ngonga.jpg."
+4,"https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/fax tel:
+https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/office 
+https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/content 
+https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/name Idress Tahir Mugdal
+https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/phone tel:
+https://dice-research.org/IdressTahirMugdal http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/namePrefix 
+https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/photo mugdal.jpg
+https://dice-research.org/IdressTahirMugdal https://schema.dice-research.org/email mailto:
+","Idress Tahir Mugdal is an alumnus of DICE Research. Their office, phone, and fax numbers are not specified. They have a photo named ""mugdal.jpg"" and their email address is available."
+5,"https://dice-research.org/FranziskaSchloots http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/chat @fms:chat.dice-research.org
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/name Franziska Schloots
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/role https://dice-research.org/Management
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/photo schloots.png
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/email mailto:franziska.schloots@upb.de
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/office TP6.3.309
+https://dice-research.org/FranziskaSchloots https://schema.dice-research.org/phone tel:+49-5251-60-5188
+","Dr. Franziska Schloots is a person who is part of the Management team at DICE Research. She is involved in the SAIL project. Her contact information includes the email franziska.schloots@upb.de and the phone number +49-5251-60-5188. Her office is located at TP6.3.309, and her chat handle is @fms:chat.dice-research.org. Her photo is available as schloots.png."
+6,"https://dice-research.org/ParamjotKaur https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/content 
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/photo kaur.jpg
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/email mailto:paramjot.kaur@uni-paderborn.de
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/fax tel:
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/phone tel:
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/office TP6.3.101
+https://dice-research.org/ParamjotKaur http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/chat @paramjot:chat.dice-research.org
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/name Paramjot Kaur
+https://dice-research.org/ParamjotKaur https://schema.dice-research.org/namePrefix 
+","Paramjot Kaur is an alumnus of DICE Research. She has an office located at TP6.3.101 and can be reached via email at paramjot.kaur@uni-paderborn.de. Her chat handle is @paramjot:chat.dice-research.org, and her photo is available at kaur.jpg."
+7,"https://dice-research.org/CaglarDemir https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/project https://dice-research.org/LEMUR
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/project https://dice-research.org/embeddings.cc
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/project https://dice-research.org/DAIKIRI
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/project https://dice-research.org/RAKI
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/project https://dice-research.org/ENEXA
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/office TP6.3.102
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/name Caglar Demir
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/content 
+
+## Research Interest
+
+My research interest centers around developing scalable algorithms for learning and reasoning on knowledge graphs.
+For more, please refer to
+* <a href=""https://scholar.google.com/citations?user=PAZsbbEAAAAJ&hl=en"">Google Scholar Profile</a>
+* <a href=""https://github.com/Demirrr"">Github Profile</a>
+
+
+## Software Frameworks
+
+* <a href=""https://github.com/dice-group/dice-embeddings"">DICE Embeddings: Hardware-agnostic Framework for Large-scale Knowledge Graph Embeddings</a>
+* <a href=""https://github.com/dice-group/Ontolearns"">Ontolearn: Scalable Description Logic Concept Learning Framework</a>
+
+
+## PC Member
+ECML 2023, IJCAI 2024
+
+## Thesis Supervision
+
+#### 2023
+* Answering Complex Queries with Negations in Incomplete Knowledge Graph
+
+
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/email mailto:caglar.demir@uni-paderborn.de
+https://dice-research.org/CaglarDemir http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/chat @cdemir:chat.dice-research.org
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/fax tel:
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/photo demir.jpg
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/namePrefix Dr. rer. nat.
+https://dice-research.org/CaglarDemir https://schema.dice-research.org/phone tel:
+","Caglar Demir is a Senior Researcher at DICE Research, located in office TP6.3.102. His research interests focus on developing scalable algorithms for learning and reasoning on knowledge graphs. He is involved in several projects, including LEMUR, SAIL, embeddings.cc, DAIKIRI, OPAL, RAKI, and ENEXA. Caglar has a Google Scholar profile and a GitHub profile, and he has developed software frameworks such as DICE Embeddings and Ontolearn. He has served as a PC member for ECML 2023 and IJCAI 2024 and has supervised a thesis on answering complex queries with negations in incomplete knowledge graphs. His email is caglar.demir@uni-paderborn.de, and he can be reached via chat at @cdemir:chat.dice-research.org. His full name is Dr. rer. nat. Caglar Demir."
+8,"https://dice-research.org/SourabhPoddar https://schema.dice-research.org/project https://dice-research.org/IDA
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/email mailto:
+https://dice-research.org/SourabhPoddar http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/phone tel:
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/office 
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/fax tel:
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/content 
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/name Sourabh Poddar
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/photo 
+https://dice-research.org/SourabhPoddar https://schema.dice-research.org/namePrefix 
+","Sourabh Poddar is an alumnus of the DICE Research project IDA. He has an email address, a phone number, an office, and a fax number. Sourabh Poddar is a person with a name prefix and a photo available."
+9,"https://dice-research.org/AlexanderPotocki http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/office 
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/email mailto:
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/phone tel:
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/photo 
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/fax tel:
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/content 
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/AlexanderPotocki https://schema.dice-research.org/name Alexander Potocki
+","Alexander Potocki is a person who was an alumnus at DICE Research. He has an office, an email, a phone number, a photo, and a fax number. His name is prefixed with a title, and he has additional content associated with him."
+10,"https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/phone tel:+49-525-16-06740
+https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/office 
+https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/photo 
+https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/namePrefix 
+https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/chat @hizkiel:chat.dice-research.org
+https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/role https://dice-research.org/ExternalStudent
+https://dice-research.org/HizkielMitikuAlemayehu http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/email mailto:hizkiel.alemayehu@uni-paderborn.de
+https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/name Hizkiel Mitiku Alemayehu
+https://dice-research.org/HizkielMitikuAlemayehu https://schema.dice-research.org/content 
+","Hizkiel Mitiku Alemayehu is a person and an external student at DICE Research. He can be reached at the phone number +49-525-16-06740, via email at hizkiel.alemayehu@uni-paderborn.de, and through chat at @hizkiel:chat.dice-research.org."
+11,"https://dice-research.org/AfshinAmini https://schema.dice-research.org/email mailto:afshin.amini@uni-paderborn.de
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/photo amini.jpg
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/phone tel:
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/chat @mnafshin:chat.dice-research.org
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/office TP6.3.309
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/fax tel:
+https://dice-research.org/AfshinAmini http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/content 
+https://dice-research.org/AfshinAmini https://schema.dice-research.org/name Afshin Amini
+","Afshin Amini is an alumnus of DICE Research, with a profile photo named ""amini.jpg"" and an email address of afshin.amini@uni-paderborn.de. He is associated with the OPAL project and is located in office TP6.3.309. Afshin can be reached via chat at @mnafshin:chat.dice-research.org."
+12,"https://dice-research.org/AdrianWilke http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/FROCKG
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/SPEAKER
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/EML4U
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/RAKI
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/DAIKIRI
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/embeddings.cc
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/DATEV
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/OpenTrafficDetection
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/project https://dice-research.org/KIAM
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/name Adrian Wilke
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/content 
+
+[]()
+
+Adrian Wilke worked from 2018 to 2023 in the Data Science (DICE) group at UPB.  
+From 2015 to 2017, he was part of the [Computer Science Education group](https://cs.uni-paderborn.de/ddi/forschungsprojekte/mls).  
+Long term contact information can be found on [adrianwilke.de](https://adrianwilke.de/).
+
+## Research
+
+* Project manager of *[OPAL](https://arxiv.org/pdf/2105.03161.pdf) - Open Data Portal Germany* (BMVI/BMDV, 1.24 million €, 2019 – 2020)
+* Lead of DICE sub-group [Data Portals](https://web.archive.org/web/20210803233958/https://dice-research.org/collaborators/groups/) (2019 – 2021)
+* Developer in project *[EML4U](https://eml4u.github.io/) - Erklärbares Maschinelles Lernen für interaktive episodische Updates von Modellen* (2021 – 2023)
+
+### Scientific reviews / conference program committees
+
+* 5th International Workshop on Geospatial Linked Data ([GeoLD 2022](https://i3mainz.github.io/GeoLD2022/))  
+at 19th Extended Semantic Web Conference 2022 (ESWC 2022)
+* 6th Workshop on Storing, Querying and Benchmarking Knowledge Graphs ([QuWeDa 2022](https://sites.google.com/view/quweda2022/program-committee))  
+at International Semantic Web Conference (ISWC 2022)
+* 3rd Workshop on Querying and Benchmarking the Web of Data ([QuWeDa 2019](https://iswc2019.semanticweb.org/program-workshop/))  
+at 18th International Semantic Web Conference (ISWC 2019)
+* 15th European Semantic Web Conference (ESWC 2018),  
+sub-reviewer of Ricardo Usbeck
+
+### Scientific articles
+
+* Adrian Wilke, Axel-Cyrille Ngonga Ngomo: **LauNuts: A Knowledge Graph to identify and compare geographic regions in the European Union** (2023) In: The Semantic Web - Extended Semantic Web Conference (ESWC). [Google Scholar](https://scholar.google.com/scholar?q=LauNuts%3A+A+Knowledge+Graph+to+identify+and+compare+geographic+regions+in+the+European+Union), [website](https://w3id.org/launuts).
+* Robert Feldhans, Adrian Wilke, Stefan Heindorf, Mohammad Hossein Shaker, Barbara Hammer, Axel-Cyrille Ngonga Ngomo, Eyke Hüllermeier: **Drift Detection in Text Data with Document Embeddings** (2021) In: Intelligent Data Engineering and Automated Learning (IDEAL 2021). DOI: [10.1007/978-3-030-91608-4_11](https://doi.org/10.1007/978-3-030-91608-4_11), [Google Scholar](https://scholar.google.com/scholar?q=Drift+Detection+in+Text+Data+with+Document+Embeddings).
+* Adrian Wilke, Arwa Bannoura, Axel-Cyrille Ngonga Ngomo: **Relicensing Combined Datasets** (2021) In: IEEE 15th International Conference on Semantic Computing (ICSC). DOI: [10.1109/ICSC50631.2021.00050](https://www.doi.org/10.1109/ICSC50631.2021.00050), [Google Scholar](https://scholar.google.com/scholar?q=Relicensing+Combined+Datasets), [demo](https://dice-research.org/ReCoDa).
+* More: [Google Scholar](https://scholar.google.com/citations?user=NPWI6tMAAAAJ), [ORCID](https://orcid.org/0000-0002-6575-807X), [UPB](https://www.uni-paderborn.de/person/9101/) 
+
+## Teaching
+
+* **Thesis supervision** (together with D. Vollmers and A. Ngonga)
+    * H. Topiwala: Geospatial Question Answering over Linked Data (2022)
+    * M. Schmidt: A Question Answering (QA) System for the Data Catalog Vocabulary (DCAT) (2020)
+* **Lecture exercises** (mainly online Jupyter notebooks, partly in presence)
+    * Statistical Natural Language Processing (SNLP)
+    * Semantic Web
+* Project group Data Portals (CS master course)
+* [Student mentoring](https://dice-research.org/students/mentoring/) (2020 – 2023)
+
+## Software development & system administration
+
+* Python, e.g. [embeddings.cc](https://github.com/dice-group/embeddings.cc/tree/8c0a2986da182b0bc29992edc44efe4dfafa865d) & [KI-SAA](https://github.com/dice-group/KI-SAA-IR/tree/v2.0.0) (Elasticsearch, Web)
+* Java, e.g. [LauNuts](https://github.com/dice-group/LauNuts/tree/v1.0.1), [ReCoDa](https://github.com/dice-group/ReCoDa), [OPAL](https://github.com/projekt-opal/doc#repositories)
+* Virtual machines, e.g. [JavaOnlineExcercises](https://github.com/dice-group/JavaOnlineExercises/tree/2020.04.19) (Docker, Jupyter), [CKAN](https://github.com/dice-group/dice-ckan)
+
+## Miscellaneous
+
+* Science communication: [Twitter](https://twitter.com/search?q=(from%3ADiceResearch)%20since%3A2021-12-16%20until%3A2023-04-01&src=typed_query&f=live)/[RT](https://twitter.com/search?q=(from%3Aadrianwilke)%20(%40DiceResearch)%20since%3A2021-12-16%20until%3A2023-04-01&src=typed_query&f=live), [YouTube](https://www.youtube.com/@dice-research), [LinkedIn](https://www.linkedin.com/company/dice-research/), [website](https://dice-research.org/)
+* Creation of an internal knowledge base using MediaWiki
+* [LaTeX beamer template](https://github.com/adibaba/templates/tree/master/claw) creation and updates of lecture slide decks
+* Additional information: [UPB website](https://www.uni-paderborn.de/person/9101/)
+
+
+https://dice-research.org/AdrianWilke https://schema.dice-research.org/email mailto:adrian.wilke@uni-paderborn.de
+","Adrian Wilke is a person who has been involved in multiple projects at DICE Research, including FROCKG, SPEAKER, OPAL, EML4U, RAKI, DAIKIRI, embeddings.cc, DATEV, OpenTrafficDetection, and KIAM. He is an alumnus of DICE Research and his name is Adrian Wilke. His long-term contact information can be found on his personal website, adrianwilke.de. He has worked on significant projects such as OPAL, where he served as a project manager, and EML4U, where he was a developer. Adrian has also been involved in scientific reviews and program committees for various conferences, including GeoLD 2022, QuWeDa 2022, and ESWC 2018. He has published several scientific articles, such as ""LauNuts: A Knowledge Graph to identify and compare geographic regions in the European Union"" and ""Drift Detection in Text Data with Document Embeddings."" Additionally, he has supervised theses, taught lecture exercises, and developed software in Python and Java. His email is adrian.wilke@uni-paderborn.de."
+13,"https://dice-research.org/MichaelRoeder https://schema.dice-research.org/fax tel:+49-525-16-03436
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/DIESEL
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/IGUANA
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/NEBULA
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/ENEXA
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/Gerbil
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/KnowGraphs
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/project https://dice-research.org/FROCKG
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/email mailto:michael.roeder@uni-paderborn.de
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/office TP6.3.108
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/publicationTag roeder
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/photo roeder.jpg
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/content 
+
+## Speaking Hours
+Monday, 14:00 - 16:00</br>
+<p><b>Always</b> write an e-mail to make an appointment <b>before</b> coming to the office. Otherwise, it is possible that I either won't have time for you or that I am not in the office (even throughout the speaking hours).
+</p>
+
+## Thesis Supervision
+
+I supervised/supported several bachelor and master theses (sorted by the year of submission).
+
+#### 2018
+* FactCheck – An automatic approach to validate facts in a knowledge base
+* Extraction of Linked Data from HTML webpages
+
+#### 2019
+* Grammar-based Compression of RDF Graphs
+
+#### 2020
+* Benchmarking of Dataset Linkage Recommendation Systems based on real-world Linked Data Application Scenarios
+* A Recommender System for Basket Items
+* Generation of Explainable Recommendations for Song Playlists
+* Recommendation System using Embedding Models for Knowledge Graphs
+
+#### 2021
+* Benchmarking of Dataset Linkage Recommendation Systems based on real-world Linked Data Application Scenarios
+* A Recommender System for Basket Items
+* Generation of Explainable Recommendations for Song Playlists
+* Recommendation System using Embedding Models for Knowledge Graphs
+
+#### 2022
+* Evaluation of Search Algorithms in Word and Knowledge Graph Embedding Models
+* Knowledge Graph Embedding Model Ensemble
+* Sedenion-valued Embeddings in Knowledge Graph Fact Validation
+
+#### 2023
+* Algorithm Selection Applied to Fact Validation Ensemble Learning
+
+#### 2024
+* Simulate RDF Graphs: A Simplex Approach
+* Approximate Nearest Neighbour Search in Knowledge Graph Embedding Spaces
+
+## Research Interest
+
+I am mainly interested in:
+
+* Benchmarking Big Linked Data Systems and automatically analyze the results
+* Analyzing Linked Data—especially with respect to its veracity
+* Crawling the Data Web
+
+## Reviewing
+My little free time seems to be partly consumed by reviewing, e.g.,
+
+* International Conference on Weblogs and Social Media (ICWSM) in 2013
+* Journal of Biomedical Semantics on Bio-Medical Information Retrieval (JBMS Bio-IR) in 2015
+* <a href=""https://sites.google.com/site/cikm2015topicmodels/workshop-organizers"">CIKM 2015 Workshop on Topic Models: Post-Processing and Applications</a>
+* <a href=""https://www.journals.elsevier.com/journal-of-web-semantics/"">Journal of Web Semantics (JWS)</a> in 2018, 2019
+* <a href=""https://journals.plos.org/plosone/"">PLOS ONE</a> in <a href=""https://doi.org/10.1371/journal.pone.0194158.s006"">2018</a>
+* <a href=""http://www.semantic-web-journal.net"">Semantic Web Journal</a> (1394, <a href=""http://www.semantic-web-journal.net/content/topic-profiling-benchmarks-issues-and-lessons-learned"">1604</a>, <a href=""http://www.semantic-web-journal.net/content/topic-profiling-benchmarks-issues-and-lessons-learned-0"">1809</a>, <a href=""http://www.semantic-web-journal.net/content/characterizing-rdf-graphs-through-graph-based-measures-framework-and-assessment"">2446</a>, <a href=""http://www.semantic-web-journal.net/content/characterizing-rdf-graphs-through-graph-based-measures-framework-and-assessment-0"">2529</a>, <a href=""http://www.semantic-web-journal.net/content/prove-pipeline-automated-provenance-verification-knowledge-graphs-against-textual-sources"">3296</a>, <a href=""https://www.semantic-web-journal.net/content/prove-pipeline-automated-provenance-verification-knowledge-graphs-against-textual-sources-0"">3467</a>)
+* <a href=""https://ecis2020.ma/"">European Conference on Information Systems (ECIS 2020)</a>
+* <a href=""http://iswc2020.semanticweb.org/"">International Semantic Web Conference (ISWC 2020)</a>
+* <a href=""https://sites.google.com/view/quweda2023/home"">QuWeDa 2023</a>
+* <a href=""https://i3mainz.github.io/GeoLD2024/"">GeoLD 2024</a>
+
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/name Michael Röder
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/namePrefix Dr. rer. nat.
+https://dice-research.org/MichaelRoeder http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/phone tel:+49-525-16-03894
+https://dice-research.org/MichaelRoeder https://schema.dice-research.org/chat @mroeder:chat.dice-research.org
+","Dr. rer. nat. Michael Röder is a Senior Researcher at DICE Research. His office is located at TP6.3.108, and his contact information includes a phone number (+49-525-16-03894), fax (+49-525-16-03436), email (michael.roeder@uni-paderborn.de), and chat (@mroeder:chat.dice-research.org). Michael is involved in several research projects, including SAIL, DIESEL, IGUANA, NEBULA, ENEXA, Gerbil, KnowGraphs, HOBBIT, and FROCKG. His research interests focus on benchmarking big linked data systems, analyzing linked data, and crawling the data web. He has supervised numerous theses and is an active reviewer for various conferences and journals, such as ICWSM, JBMS Bio-IR, CIKM, Journal of Web Semantics, PLOS ONE, Semantic Web Journal, ECIS, ISWC, QuWeDa, and GeoLD. His speaking hours are on Monday from 14:00 to 16:00, but he requests that appointments be made via email before visiting."
+14,"https://dice-research.org/LukasKerkemeier https://schema.dice-research.org/content 
+https://dice-research.org/LukasKerkemeier https://schema.dice-research.org/project https://dice-research.org/Tentris
+https://dice-research.org/LukasKerkemeier https://schema.dice-research.org/chat @kerkemei:chat.dice-research.org
+https://dice-research.org/LukasKerkemeier https://schema.dice-research.org/email mailto:kerkemei@mail.upb.de
+https://dice-research.org/LukasKerkemeier https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/LukasKerkemeier https://schema.dice-research.org/namePrefix 
+https://dice-research.org/LukasKerkemeier https://schema.dice-research.org/name Lukas Kerkemeier
+https://dice-research.org/LukasKerkemeier http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Lukas Kerkemeier is a person who was an alumnus at DICE Research. He was involved in the Tentris project and his content can be found at the DICE Research content schema. His chat handle is @kerkemei on chat.dice-research.org and his email is kerkemei@mail.upb.de.
+15,"https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/office TP6.3.306
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/WHALE
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/DIESEL
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/GEISER
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/ClimatebOWL
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/Ingrid
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/SLIPO
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/SAKE
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/GeoKnow
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/SAGE
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/LinkingLOD
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/namePrefix Dr. rer. nat.
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/fax tel:+49-525-16-03436
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/email mailto:mohamed.sherif@upb.de
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/chat @msherif:chat.dice-research.org
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/name Mohamed Ahmed Sherif
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/photo sherif.jpg
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/phone tel:+49-525-16-01708
+https://dice-research.org/MohamedAhmedSherif http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/MohamedAhmedSherif https://schema.dice-research.org/content 
+","Dr. rer. nat. Mohamed Ahmed Sherif is a Senior Researcher at DICE Research, located in office TP6.3.306. His contact information includes the phone number +49-525-16-01708, fax number +49-525-16-03436, email mohamed.sherif@upb.de, and chat handle @msherif:chat.dice-research.org. His photo is available as sherif.jpg. Dr. Sherif is involved in several projects, including WHALE, DIESEL, GEISER, ClimatebOWL, Ingrid, SLIPO, SAKE, GeoKnow, SAGE, LinkingLOD, and HOBBIT."
+16,"https://dice-research.org/FarshadAfshari https://schema.dice-research.org/fax tel:
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/email mailto:farshad.afshari@uni-paderborn.de
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/name Farshad Afshari
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/office TP6.3.108
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/project https://dice-research.org/NEBULA
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/project https://dice-research.org/FROCKG
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/project https://dice-research.org/ENEXA
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/content 
+  <p>
+  <b>Linkedin </b><a href=""https://www.linkedin.com/in/afsharifarshad/""> &ensp;Farshad Afshari </a>
+  </p>
+  <hr/>
+  <p>
+  <b>Personal website </b><a href=""https://farshadafshari.com/""> &ensp;Farshad Afshari website </a>
+  </p>
+  
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/role https://dice-research.org/Infrastructure
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/chat @afshari:chat.dice-research.org
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/photo afshari.jpg
+https://dice-research.org/FarshadAfshari http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/namePrefix 
+https://dice-research.org/FarshadAfshari https://schema.dice-research.org/phone tel:
+","Farshad Afshari is a person affiliated with DICE Research. He can be reached via fax, email at farshad.afshari@uni-paderborn.de, and chat at @afshari:chat.dice-research.org. His office is located at TP6.3.108. Farshad is involved in the projects NEBULA, FROCKG, and ENEXA. He holds a role in Infrastructure. His LinkedIn profile and personal website are available for further information. His photo is available as afshari.jpg."
+17,"https://dice-research.org/SimonBordewisch https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/SimonBordewisch https://schema.dice-research.org/fax tel:
+https://dice-research.org/SimonBordewisch https://schema.dice-research.org/email mailto:
+https://dice-research.org/SimonBordewisch https://schema.dice-research.org/phone tel:
+https://dice-research.org/SimonBordewisch http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/SimonBordewisch https://schema.dice-research.org/name Simon Bordewisch
+https://dice-research.org/SimonBordewisch https://schema.dice-research.org/content 
+https://dice-research.org/SimonBordewisch https://schema.dice-research.org/photo bordewisch.jpg
+https://dice-research.org/SimonBordewisch https://schema.dice-research.org/namePrefix 
+https://dice-research.org/SimonBordewisch https://schema.dice-research.org/office 
+","Simon Bordewisch is an alumnus of DICE Research. His contact information includes a fax number, email address, and phone number. He is a person with the name Simon Bordewisch, and his photo is named ""bordewisch.jpg""."
+18,"https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/fax tel:+49-525-16-03436
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/email mailto:ria.hari.gusmita@uni-paderborn.de
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/office TP6.3.101
+https://dice-research.org/RiaHariGusmita http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/namePrefix 
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/name Ria Hari Gusmita
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/photo gusmita.jpg
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/phone tel:+49-525-16-05194
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/content 
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/RiaHariGusmita https://schema.dice-research.org/chat @gusmita:chat.dice-research.org
+","Ria Hari Gusmita is a research staff member at DICE Research. Her office is located at TP6.3.101. She can be contacted via email at ria.hari.gusmita@uni-paderborn.de, by phone at +49-525-16-05194, or by fax at +49-525-16-03436. Her chat handle is @gusmita:chat.dice-research.org. Her photo is available at gusmita.jpg."
+19,"https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/email mailto:
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/content 
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/chat @scarl:chat.dice-research.org
+https://dice-research.org/CarlSuckfüll http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/office 
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/namePrefix 
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/fax tel:
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/photo 
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/phone tel:
+https://dice-research.org/CarlSuckfüll https://schema.dice-research.org/name Carl Suckfüll
+","Carl Suckfüll is an alumnus of DICE Research. He has an email address, a chat handle @scarl on chat.dice-research.org, and a phone number. His office and fax details are available. Carl has a photo and a name prefix. His name is Carl Suckfüll."
+20,"https://dice-research.org/KunalJha https://schema.dice-research.org/content # Bio
+
+Kunal is a  Masters Student (Computer Science) at University of Bonn and works as a Research Assistant at AKSW in Leipzig. Before joining AKSW, Kunal has completed Bachelors in Information and Communication Technology from DA-IICT, India.
+
+Kunal's  recent works have been in the areas of Benchmarking and  Semantic Search systems but in due course of his activities he has developed interests in Software-Container Virtualisation (Docker), Machine Learning, Knowledge Graphs, NLP and Functional Programming Approaches.
+
+He completed his Bachelor's Thesis with AKSW in May 2016 on a tool that helps in improving NER/ NED gold standard Datasets. He also  completed his [Google Summer of Code 2016](https://summerofcode.withgoogle.com/archive/2016/projects/6452757254897664/) with DBpedia and is currently a co-maintainer for the [DBpedia Lookup Service](https://github.com/dbpedia/lookup#maintainers).
+  
+https://dice-research.org/KunalJha https://schema.dice-research.org/project https://dice-research.org/BDE
+https://dice-research.org/KunalJha https://schema.dice-research.org/project https://dice-research.org/GEISER
+https://dice-research.org/KunalJha https://schema.dice-research.org/photo jha.jpg
+https://dice-research.org/KunalJha https://schema.dice-research.org/email mailto:kunal.jha@uni-bonn.de
+https://dice-research.org/KunalJha https://schema.dice-research.org/phone tel:+49-341-97-32260
+https://dice-research.org/KunalJha https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/KunalJha https://schema.dice-research.org/name Kunal Jha
+https://dice-research.org/KunalJha http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Kunal Jha is a Masters Student in Computer Science at the University of Bonn and works as a Research Assistant at AKSW in Leipzig. He completed his Bachelors in Information and Communication Technology from DA-IICT, India. His recent work has focused on benchmarking and semantic search systems, and he has developed interests in software-container virtualization (Docker), machine learning, knowledge graphs, NLP, and functional programming. Kunal completed his Bachelor's Thesis with AKSW in May 2016, working on a tool to improve NER/NED gold standard datasets. He also participated in the Google Summer of Code 2016 with DBpedia and is currently a co-maintainer for the DBpedia Lookup Service. Kunal is involved in the BDE and GEISER projects. His email is kunal.jha@uni-bonn.de, and his phone number is +49-341-97-32260. His photo can be found at jha.jpg, and he is listed as an alumnus."
+21,"https://dice-research.org/ExamplePerson https://schema.dice-research.org/phone tel:+49-0151-11046544
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/phone tel:+49-525-16-03342
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/content 
+# Content from RDF
+
+## Stuff
+
+This is a test person that has all properties.
+
+## Test
+
+This is a test markdown that can include anything.
+  
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/content 
+
+## Biography
+
+Daniel Leite is a researcher in the Department of Computer Science, Data Science (DICE) Group, Paderborn University, Germany. For 11 years he was a professor and researcher at the UFLA and UFMG, Brazil; and UAI, Chile, in the areas of dynamic systems, fuzzy systems, neural networks, data mining, and control theory. He earned his PhD from the State University of Campinas, UNICAMP, Brazil, 2012, and was a postdoctoral fellow at the University of Ljubljana, Slovenia, 2018-2019, and Federal University of Minas Gerais, UFMG, Brazil, 2013-2014. He received the North American Fuzzy Information Processing Society NAFIPS Early Career Award (2017); and PhD Thesis awards from the IEEE Computational Intelligence Society (2017), NAFIPS (2015), and Brazilian Computer Society (2014). He was granted for outstanding student papers in fuzzy systems and neural network events (FUZZ-IEEE and IJCNN) in the US, Australia, Brazil, and Scotland. He supervised 46 students/researchers from undergraduates to postdocs, and participated in 42 MSc/PhD thesis committees. He is an IEEE Senior Member, coordinated or collaborated in 13 R&D projects on AI and applications, and contributes as an Associate Editor of the Evolving Systems journal.
+
+## Research Interest:
+
+* Lifelong machine learning
+* Human-Centered AI
+* Deep neural networks
+* Granular computing
+* Control theory
+
+## Homepage
+
+https://sites.google.com/site/danfl7
+
+  
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/photo yourphoto.jpg
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/photo leite.jpg
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/publicationTag roeder
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/publicationTag leite
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/chat @username:chat.dice-research.org
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/chat @dleite:chat.dice-research.org
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/name Your Name
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/name Daniel Leite
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/office TP6.3.106 (your office)
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/office TP6.3.109
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/email mailto:your.email@upb.de
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/email mailto:daniel.leite@uni-paderborn.de
+https://dice-research.org/ExamplePerson http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/ExamplePerson https://schema.dice-research.org/fax tel:+49-525-16-03436
+","Daniel Leite is a Senior Research Staff at the Data Science (DICE) Group, Department of Computer Science, Paderborn University, Germany. He has two phone numbers: +49-0151-11046544 and +49-525-16-03342, and his fax number is +49-525-16-03436. His email addresses are daniel.leite@uni-paderborn.de and your.email@upb.de. He is involved in the SAIL project and has offices in TP6.3.106 and TP6.3.109. His chat handles are @dleite and @username on chat.dice-research.org. His research interests include lifelong machine learning, human-centered AI, deep neural networks, granular computing, and control theory. He has a biography detailing his academic and professional achievements, including his roles as a professor and researcher at UFLA, UFMG, and UAI, and his PhD from UNICAMP. He has received several awards and has supervised numerous students and researchers. His homepage is available at https://sites.google.com/site/danfl7. His name is prefixed with ""Dr."" and he has a photo available at leite.jpg. His publications are tagged with ""roeder"" and ""leite""."
+22,"https://dice-research.org/MatthiasWauer https://schema.dice-research.org/email mailto:
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/fax tel:
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/phone tel:
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/office 
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/photo wauer.jpg
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/name Matthias Wauer
+https://dice-research.org/MatthiasWauer http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/MatthiasWauer https://schema.dice-research.org/content 
+","Dr. Matthias Wauer is an alumnus of DICE Research. He was involved in the OPAL project. His contact information includes an email, fax, and phone number. He has an office and a photo available. Dr. Wauer is classified as a person in the DICE Research schema."
+23,"https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/content 
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/office TP6.3.310
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/name N'Dah Jean Kouagou
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/photo jean.jpg
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/project https://dice-research.org/embeddings.cc
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/project https://dice-research.org/KnowGraphs
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/fax tel:
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/namePrefix 
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/phone tel:+49-5251-60-1766
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/chat @nkouagou:chat.dice-research.org
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/email mailto:nkouagou@mail.uni-paderborn.de
+https://dice-research.org/JeanNDahKouagou https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/JeanNDahKouagou http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","N'Dah Jean Kouagou is a research staff member at DICE Research. His office is located in TP6.3.310. Jean's projects include embeddings.cc and KnowGraphs. He can be reached by phone at +49-5251-60-1766, by email at nkouagou@mail.uni-paderborn.de, and via chat at @nkouagou:chat.dice-research.org. His photo is available as jean.jpg."
+24,"https://dice-research.org/HashimKhan https://schema.dice-research.org/name Hashim Khan
+https://dice-research.org/HashimKhan https://schema.dice-research.org/fax tel:
+https://dice-research.org/HashimKhan https://schema.dice-research.org/namePrefix 
+https://dice-research.org/HashimKhan https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/HashimKhan https://schema.dice-research.org/content 
+https://dice-research.org/HashimKhan https://schema.dice-research.org/photo hkhan.jpg
+https://dice-research.org/HashimKhan http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/HashimKhan https://schema.dice-research.org/email mailto:hashim.khan@uni-paderborn.de
+https://dice-research.org/HashimKhan https://schema.dice-research.org/phone tel:
+https://dice-research.org/HashimKhan https://schema.dice-research.org/office TP6.3.305
+https://dice-research.org/HashimKhan https://schema.dice-research.org/chat @hashim:chat.dice-research.org
+","Hashim Khan is a research staff member at DICE Research. His role is listed as Research Staff, and he has a photo named ""hkhan.jpg."" His email is hashim.khan@uni-paderborn.de, and his office is located at TP6.3.305. He can also be reached via chat at @hashim:chat.dice-research.org. His fax and phone numbers are not specified."
+25,"https://dice-research.org/StefanHeindorf https://schema.dice-research.org/project https://dice-research.org/TRR318
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/project https://dice-research.org/EML4U
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/project https://dice-research.org/RAKI
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/project https://dice-research.org/embeddings.cc
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/project https://dice-research.org/KIAM
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/project https://dice-research.org/COLIDE
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/project https://dice-research.org/DAIKIRI
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/name Stefan Heindorf
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/photo heindorf.jpg
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/chat @heindorf:chat.dice-research.org
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/email mailto:heindorf@uni-paderborn.de
+https://dice-research.org/StefanHeindorf https://schema.dice-research.org/content 
+
+# Groups
+[Machine Learning](/collaborators/groups/#machine%20learning)
+
+https://dice-research.org/StefanHeindorf http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Stefan Heindorf is a Senior Researcher at DICE Research, involved in multiple projects including TRR318, EML4U, RAKI, embeddings.cc, KIAM, COLIDE, and DAIKIRI. He has a doctorate and can be reached via email at heindorf@uni-paderborn.de or on chat at @heindorf:chat.dice-research.org. His photo is available as heindorf.jpg. Stefan is part of the Machine Learning group."
+26,"https://dice-research.org/SuganyaKannan http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/name Suganya Kannan
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/email mailto:
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/photo 
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/namePrefix 
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/office 
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/phone tel:
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/content 
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/fax tel:
+https://dice-research.org/SuganyaKannan https://schema.dice-research.org/role https://dice-research.org/Alumni
+","Suganya Kannan is a person who was an alumnus of DICE Research. Her name prefix, email, photo, office, phone, and fax information are available, but the specific details are not provided."
+27,"https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/email mailto:tatianam@mail.uni-paderborn.de
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/publicationTag 
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/phone tel:+49-1520-65-39527
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/photo tatiana_moteu.jpg
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/name Tatiana Moteu Ngoli
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/namePrefix 
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/office TP6.3.303
+https://dice-research.org/TatianaMoteuNgoli http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/fax tel:
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/chat @tatianam:chat.dice-research.org
+https://dice-research.org/TatianaMoteuNgoli https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+","Tatiana Moteu Ngoli is a research staff member at DICE Research. Her email is tatianam@mail.uni-paderborn.de, and she can be reached by phone at +49-1520-65-39527. Her office is located at TP6.3.303, and her chat handle is @tatianam:chat.dice-research.org. She is involved in the SAIL project and has a photo named tatiana_moteu.jpg."
+28,"https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/phone tel:+49-525-16-05189
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/content 
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/project https://dice-research.org/Ingrid
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/project https://dice-research.org/ClimatebOWL
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/office TP6.3.308
+https://dice-research.org/AbdullahFathiAhmed http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/email mailto:afaahmed@mail.uni-paderborn.de
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/fax tel:+49-525-16-03436
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/photo ahmed.jpg
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/chat @afaahmed:chat.dice-research.org
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AbdullahFathiAhmed https://schema.dice-research.org/name Abdullah Fathi Ahmed
+","Abdullah Fathi Ahmed is an alumnus of DICE Research. He can be reached at the phone number +49-525-16-05189, via email at afaahmed@mail.uni-paderborn.de, and by fax at +49-525-16-03436. His office is located in TP6.3.308. He was involved in the Ingrid and ClimatebOWL projects. His photo is available as ""ahmed.jpg,"" and he can be contacted on chat at @afaahmed:chat.dice-research.org."
+29,"https://dice-research.org/NikitSrivastava https://schema.dice-research.org/publicationTag srivastava
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/namePrefix 
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/photo srivastava.jpg
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/content 
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/project https://dice-research.org/PORQUE
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/project https://dice-research.org/IDA
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/chat @nikit:chat.dice-research.org
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/name Nikit Srivastava
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/email mailto:nikit.srivastava@uni-paderborn.de
+https://dice-research.org/NikitSrivastava http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/office TP6.3.103
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/phone tel:
+https://dice-research.org/NikitSrivastava https://schema.dice-research.org/fax tel:
+","Nikit Srivastava is a research staff member at DICE Research with the role of Research Staff. He is involved in the projects PORQUE, SAIL, and IDA. His photo is available as ""srivastava.jpg,"" and he can be contacted via email at nikit.srivastava@uni-paderborn.de or through the chat handle @nikit:chat.dice-research.org. His office is located at TP6.3.103."
+30,"https://dice-research.org/IvanErmilov https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/project https://dice-research.org/BDE
+https://dice-research.org/IvanErmilov http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/email mailto:
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/name Ivan Ermilov
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/photo iermilov.jpg
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/content 
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/namePrefix 
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/phone tel:
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/fax tel:
+https://dice-research.org/IvanErmilov https://schema.dice-research.org/office 
+","Ivan Ermilov is an alumnus of DICE Research. He has worked on the HOBBIT and BDE projects. Ivan is a person with an email address, and his name is Ivan Ermilov. His photo is available as iermilov.jpg. He has a content entry and uses a phone and fax, though the specific numbers are not provided. His office location is also unspecified."
+31,"https://dice-research.org/NickMolcanov https://schema.dice-research.org/email mailto:nmolcan@campus.uni-paderborn.de
+https://dice-research.org/NickMolcanov https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/NickMolcanov https://schema.dice-research.org/name Nick Molcanov
+https://dice-research.org/NickMolcanov http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Nick Molcanov is a student researcher at DICE Research. His email address is nmolcan@campus.uni-paderborn.de.
+32,"https://dice-research.org/HamadaMZahera https://schema.dice-research.org/project https://dice-research.org/embeddings.cc
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/project https://dice-research.org/ENEXA
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/project https://dice-research.org/DAIKIRI
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/project https://dice-research.org/PORQUE
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/chat @zahera:chat.dice-research.org
+https://dice-research.org/HamadaMZahera http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/email mailto:hamada.zahera@uni-paderborn.de
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/name Hamada Zahera
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/content 
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/phone tel:+49-5251-60-5194
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/office TP6.3.101
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/fax tel:+49-5251-603436
+https://dice-research.org/HamadaMZahera https://schema.dice-research.org/photo zahera.jpg
+","Dr. Hamada Zahera is a Senior Researcher at DICE Research. She is involved in several projects, including embeddings.cc, ENEXA, DAIKIRI, and PORQUE. Her contact information includes the email hamada.zahera@uni-paderborn.de, the chat handle @zahera:chat.dice-research.org, the phone number +49-5251-60-5194, the office location TP6.3.101, and the fax number +49-5251-603436. Her photo is available at zahera.jpg."
+33,"https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/content 
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/AsepFajarFirmansyah http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/name Asep Fajar Firmansyah
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/email mailto:asep.fajar.firmansyah@uni-paderborn.de
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/fax tel:
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/phone tel:
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/office TP6.3.102
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/photo firmansyah.jpg
+https://dice-research.org/AsepFajarFirmansyah https://schema.dice-research.org/chat @asepff:chat.dice-research.org
+","Asep Fajar Firmansyah is a research staff member at DICE Research. He works in office TP6.3.102 and can be reached via email at asep.fajar.firmansyah@uni-paderborn.de. His chat handle is @asepff:chat.dice-research.org, and his photo is available as firmansyah.jpg."
+34,"https://dice-research.org/DanielVollmers https://schema.dice-research.org/email mailto:daniel.vollmers@uni-paderborn.de
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/project https://dice-research.org/LIMBO
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/project https://dice-research.org/SOLIDE
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/project https://dice-research.org/PORQUE
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/project https://dice-research.org/SPEAKER
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/namePrefix 
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/photo vollmers.jpg
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/content 
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/office TP6.3.307
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/phone tel:+49-525-16-05190
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/chat @vdaniel:chat.dice-research.org
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/fax tel:
+https://dice-research.org/DanielVollmers https://schema.dice-research.org/name Daniel Vollmers
+https://dice-research.org/DanielVollmers http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Daniel Vollmers is a research staff member at DICE Research. He works on projects including LIMBO, SOLIDE, PORQUE, and SPEAKER. His contact information includes an email address of daniel.vollmers@uni-paderborn.de, a phone number of +49-525-16-05190, and a chat handle of @vdaniel:chat.dice-research.org. His office is located at TP6.3.307, and his photo is available as vollmers.jpg."
+35,"https://dice-research.org/DanishAhmed https://schema.dice-research.org/content 
+https://dice-research.org/DanishAhmed https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/DanishAhmed https://schema.dice-research.org/namePrefix 
+https://dice-research.org/DanishAhmed https://schema.dice-research.org/fax tel:
+https://dice-research.org/DanishAhmed https://schema.dice-research.org/office 
+https://dice-research.org/DanishAhmed http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/DanishAhmed https://schema.dice-research.org/email mailto:
+https://dice-research.org/DanishAhmed https://schema.dice-research.org/phone tel:
+https://dice-research.org/DanishAhmed https://schema.dice-research.org/name Danish Ahmed
+https://dice-research.org/DanishAhmed https://schema.dice-research.org/photo dahmed.jpg
+","Danish Ahmed is an alumnus of DICE Research. His role is listed as an alumnus, and he has a photo named ""dahmed.jpg"". He can be contacted via email and phone, and his office and fax numbers are available. His name prefix is not specified."
+36,"https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/LIMBO
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/SOLIDE
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/SPEAKER
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/KnowGraphs
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/QAMEL
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/DIESEL
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/DAIKIRI
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/RAKI
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/Gerbil
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/PORQUE
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/phone tel:+49-525-16-05385
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/email mailto:diego.moussallem@uni-paderborn.de
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/photo moussallem.jpg
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/name Diego Moussallem
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/fax tel:+49-525-16-05385
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/DiegoMoussallem http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/content  My overall background is on CS, but the majority of my career I have spent on NLP. Thus, I have worked on different NLP tasks ranging from basic research in computational linguistics to Entity Linking, Machine Translation, Natural Language Generation, and Question Answering. My work resulted in the first neural machine translation model augmented with knowledge graphs and one state-of-the-art framework in respect of multilingualism and knowledge-graph-based algorithms. Additionally, I contribute actively to the scientific community, being responsible for the Portuguese chapter of DBpedia as well as mentoring students at the Google Summer of Code. I am currently a senior NLP research scientist, leading the NLP team, in the DICE research group at Paderborn University. Previously, I was a researcher at AKSW (Leipzig, DE), working on Information Retrieval and NLP. I hold an MSc. and a Ph.D. 
+  
+  <p>
+  <b>Speaking hours</b>: Write an e-mail to make an appointment <b>before</b> coming to the office. Otherwise, it is possible that I either won't have time for you or that I am not in the office (even throughout the speaking hours).
+  </p>
+
+  <p>
+  Member and Reviewer at:
+  <ul>
+  <li>International Conference on Knowledge Capture (KCAP) 2017, 2019</li>
+  <li>Conference on Empirical Methods in Natural Language Processing (EMNLP) 2019</li>
+  <li>Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2019</li>
+  <li>Annual Meeting of the Association for Computational Linguistics (ACL) 2018, 2019, 2020</li>
+  <li>International Conference on Natural Language Generation (INLG) 2018, 2019</li>
+  <li>International Conference on Computational Linguistics (COLING) 2016</li>
+  <li>Extended Semantic Web Conference (ESWC) 2016, 2020</li>
+  <li>Journal of Web Semantics</li>
+  <li>Semantic Web Journal</li>
+  <li>Journal on Semantic Web and Information Systems.</li>
+  <li>Artificial Intelligence Review</li>
+  <ul>
+  </p>
+  
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/chat @diegom:chat.dice-research.org
+https://dice-research.org/DiegoMoussallem https://schema.dice-research.org/office TP6.3.109
+","Dr. Diego Moussallem is a senior research scientist at the DICE research group at Paderborn University, leading the NLP team. His background is in computer science with a focus on natural language processing (NLP), including tasks such as computational linguistics, entity linking, machine translation, natural language generation, and question answering. He has developed the first neural machine translation model augmented with knowledge graphs and a state-of-the-art multilingual and knowledge-graph-based framework. Diego is also responsible for the Portuguese chapter of DBpedia and mentors students at the Google Summer of Code. He holds an MSc and a Ph.D. and has been a researcher at AKSW in Leipzig. Diego is a member and reviewer at various conferences and journals, including KCAP, EMNLP, NAACL, ACL, INLG, COLING, ESWC, the Journal of Web Semantics, the Semantic Web Journal, and the Journal on Semantic Web and Information Systems. His office is located at TP6.3.109, and he can be contacted via email at diego.moussallem@uni-paderborn.de, phone at +49-525-16-05385, fax at +49-525-16-05385, and chat at @diegom:chat.dice-research.org. His photo is available as moussallem.jpg. For appointments, it is recommended to send an email before visiting his office. Diego is involved in several projects, including LIMBO, SOLIDE, SPEAKER, KnowGraphs, QAMEL, DIESEL, DAIKIRI, RAKI, Gerbil, PORQUE, and HOBBIT."
+37,"https://dice-research.org/JonathanEberle http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/namePrefix 
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/office 
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/name Jonathan Eberle
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/photo 
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/phone tel:
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/email mailto:
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/content 
+https://dice-research.org/JonathanEberle https://schema.dice-research.org/fax tel:
+","Jonathan Eberle is a person who was an alumnus at DICE Research. He has an office, and his name is prefixed with a title. His contact information includes a phone number, email, and fax number. He also has a photo and additional content associated with him."
+38,"https://dice-research.org/AdnanAkhter https://schema.dice-research.org/name Adnan Akhter
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/content 
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/chat @akhter:chat.dice-research.org
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/phone tel:
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/office 
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/photo akhter.jpg
+https://dice-research.org/AdnanAkhter http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/email mailto:
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/AdnanAkhter https://schema.dice-research.org/fax tel:
+","Adnan Akhter is a person who was part of the DICE Research organization as an alumnus. His chat handle is @akhter on chat.dice-research.org, and his photo is available at akhter.jpg. He has a phone number and an email address, both of which are not specified. His office and fax numbers are also listed but not provided."
+39,"https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/name Muhammad Saleem
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/namePrefix Dr. rer. nat.
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/chat @saleem:chat.dice-research.org
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/email mailto:saleem@informatik.uni-leipzig.de
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/office 
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/phone tel:+49-341-97-32362
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/content 
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/project https://dice-research.org/DIESEL
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/project https://dice-research.org/Feasible
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/project https://dice-research.org/BDE
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/project https://dice-research.org/GeoKnow
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/project https://dice-research.org/SLIPO
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/project https://dice-research.org/SAKE
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/MuhammadSaleem http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/fax tel:+49-341-97-32329
+https://dice-research.org/MuhammadSaleem https://schema.dice-research.org/photo saleem.jpg
+","Dr. rer. nat. Muhammad Saleem is a Senior Researcher at DICE Research. His contact information includes the email address mailto:saleem@informatik.uni-leipzig.de, the chat handle @saleem:chat.dice-research.org, and the phone number tel:+49-341-97-32362. He is involved in several projects, including DIESEL, Feasible, BDE, GeoKnow, SLIPO, SAKE, and HOBBIT. His fax number is tel:+49-341-97-32329, and his photo is available at saleem.jpg."
+40,"https://dice-research.org/UmairQudus https://schema.dice-research.org/project https://dice-research.org/KnowGraphs
+https://dice-research.org/UmairQudus https://schema.dice-research.org/project https://dice-research.org/NEBULA
+https://dice-research.org/UmairQudus https://schema.dice-research.org/namePrefix 
+https://dice-research.org/UmairQudus https://schema.dice-research.org/name Umair Qudus
+https://dice-research.org/UmairQudus https://schema.dice-research.org/office TP6.3.307
+https://dice-research.org/UmairQudus https://schema.dice-research.org/photo umair.jpg
+https://dice-research.org/UmairQudus https://schema.dice-research.org/content 
+
+## Speaking Hours
+Monday, 14:00 - 16:00</br>
+<p><b>Always</b> write an e-mail to make an appointment <b>before</b> coming to the office. Otherwise, it is possible that I either won't have time for you or that I am not in the office (even throughout the speaking hours).
+</p>
+
+## Research Interest
+
+I am mainly interested in:
+
+* Fact-checking over knowledge graphs
+* Analyzing Linked Data—especially concerning its veracity
+* Fake news detection
+
+
+https://dice-research.org/UmairQudus https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/UmairQudus http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/UmairQudus https://schema.dice-research.org/chat @uqudus:chat.dice-research.org
+https://dice-research.org/UmairQudus https://schema.dice-research.org/email mailto:uqudus@mail.uni-paderborn.de
+https://dice-research.org/UmairQudus https://schema.dice-research.org/fax tel:
+https://dice-research.org/UmairQudus https://schema.dice-research.org/phone tel:+49-525-16-05190
+","Umair Qudus is a research staff member at DICE Research. He is involved in the KnowGraphs and NEBULA projects. His office is located at TP6.3.307, and his photo is available as umair.jpg. His speaking hours are on Monday from 14:00 to 16:00, but it is essential to send an email before visiting to confirm his availability. His research interests include fact-checking over knowledge graphs, analyzing Linked Data for veracity, and fake news detection. You can contact him via email at uqudus@mail.uni-paderborn.de or through chat at @uqudus:chat.dice-research.org. His phone number is +49-525-16-05190."
+41,"https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/project https://dice-research.org/BioASQ
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/project https://dice-research.org/QAMEL
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/name Timofey Ermilov
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/fax tel:+49-341-97-32329
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/content 
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/phone tel:+49-341-97-32362
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/email mailto:ermilov@informatik.uni-leipzig.de
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/namePrefix Dr.-Ing.
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/office 
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/photo ermilov.jpg
+https://dice-research.org/TimofeyErmilov https://schema.dice-research.org/chat @ermilov:chat.dice-research.org
+https://dice-research.org/TimofeyErmilov http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Dr.-Ing. Timofey Ermilov is an alumnus of DICE Research. He has worked on the BioASQ, HOBBIT, and QAMEL projects. His email is ermilov@informatik.uni-leipzig.de, and he can be reached by phone at +49-341-97-32362 or fax at +49-341-97-32329. His chat handle is @ermilov:chat.dice-research.org, and his photo is available as ermilov.jpg."
+42,"https://dice-research.org/AnaAlexandraSilva http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/phone tel:
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/project https://dice-research.org/Ingrid
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/project https://dice-research.org/NEBULA
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/project https://dice-research.org/ClimatebOWL
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/publicationTag amsilva
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/photo silva.jpg
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/chat @aams:chat.dice-research.org
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/content 
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/fax tel:
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/office TP6.3.101
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/name Ana Alexandra Morim da Silva
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/email mailto:ana.silva@uni-paderborn.de
+https://dice-research.org/AnaAlexandraSilva https://schema.dice-research.org/namePrefix 
+","Ana Alexandra Morim da Silva is a research staff member at DICE Research. She works in office TP6.3.101 and can be reached by phone, fax, or email at ana.silva@uni-paderborn.de. Her chat handle is @aams:chat.dice-research.org, and her photo is available as silva.jpg. Her publication tag is amsilva, and she is involved in several projects, including Ingrid, SAIL, NEBULA, and ClimatebOWL."
+43,"https://dice-research.org/RedaIhtassine https://schema.dice-research.org/fax tel:
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/content 
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/project https://dice-research.org/ClimatebOWL
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/namePrefix 
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/email mailto:reih@mail.uni-paderborn.de
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/office TP6.3.301
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/chat @reih:chat.dice-research.org
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/name Reda Ihtassine
+https://dice-research.org/RedaIhtassine http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/photo redaIhtassine.jpg
+https://dice-research.org/RedaIhtassine https://schema.dice-research.org/phone tel:
+","Reda Ihtassine is a research staff member at DICE Research, located in office TP6.3.301. His email is reih@mail.uni-paderborn.de, and he can be reached via chat at @reih:chat.dice-research.org. Reda is involved in the ClimatebOWL project and has a photo named redaIhtassine.jpg. His fax and phone numbers are not specified."
+44,"https://dice-research.org/NandeeshPatel https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/namePrefix 
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/phone tel:
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/project https://dice-research.org/IDA
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/content 
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/photo 
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/name Nandeesh Patel
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/office 
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/fax tel:
+https://dice-research.org/NandeeshPatel http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/NandeeshPatel https://schema.dice-research.org/email mailto:
+","Nandeesh Patel is an alumnus of DICE Research. He was involved in the IDA project. His contact information includes a phone number and a fax number, and he can be reached via email."
+45,"https://dice-research.org/MelissaDas https://schema.dice-research.org/content 
+https://dice-research.org/MelissaDas https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/MelissaDas https://schema.dice-research.org/photo das.jpg
+https://dice-research.org/MelissaDas https://schema.dice-research.org/chat @dmelissa:chat.dice-research.org
+https://dice-research.org/MelissaDas https://schema.dice-research.org/email mailto:dmelissa@mail.uni-paderborn.de
+https://dice-research.org/MelissaDas https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/MelissaDas https://schema.dice-research.org/namePrefix 
+https://dice-research.org/MelissaDas https://schema.dice-research.org/name Melissa Das
+https://dice-research.org/MelissaDas http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Melissa Das is an alumnus of DICE Research. She worked on the OPAL project and her photo is available as ""das.jpg"". You can chat with her at @dmelissa:chat.dice-research.org and email her at dmelissa@mail.uni-paderborn.de. Her full name is Melissa Das and she is classified as a person."
+46,"https://dice-research.org/DenisKuchelev https://schema.dice-research.org/fax tel:
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/office 
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/name Denis Kuchelev
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/photo 
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/project https://dice-research.org/ORCA
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/email mailto:kuchelev+diceweb@campus.uni-paderborn.de
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/phone tel:
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/chat @kuchelev:chat.dice-research.org
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/namePrefix 
+https://dice-research.org/DenisKuchelev https://schema.dice-research.org/content 
+https://dice-research.org/DenisKuchelev http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Denis Kuchelev is a research staff member at DICE Research. He is involved in the HOBBIT, ORCA, and SAIL projects. His email is kuchelev+diceweb@campus.uni-paderborn.de, and his chat handle is @kuchelev:chat.dice-research.org. He has a fax and phone number listed, and his office and photo are available."
+47,"https://dice-research.org/ManzoorAli http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/content 
+
+## Research Interests
+
+My research is mainly in the following areas:
+
+* Natural Language Processing
+* Semantic Web
+* Generative AI
+
+Feel free to write to me if you are interested in a collaboration in:
+
+* Relation Extraction
+* Information Extraction
+* Information Retrieval
+* Knowledge Graph Construction
+* Knowledge Graph Completion
+* Large Language Models (LLMs): Fine-tuning, Chain of Thoughts, In-context learning, etc.
+
+
+
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/name Manzoor Ali
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/office TP6.3.305
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/namePrefix 
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/email mailto:manzoor@campus.uni-paderborn.de
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/project https://dice-research.org/KIAM
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/fax tel:
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/phone tel:
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/chat @manzoor:chat.dice-research.org
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/publicationTag manzoor
+https://dice-research.org/ManzoorAli https://schema.dice-research.org/photo mali.jpg
+","Manzoor Ali is a research staff member at DICE Research, located in office TP6.3.305. His research interests include Natural Language Processing, Semantic Web, and Generative AI. He is open to collaborations in areas such as Relation Extraction, Information Extraction, Information Retrieval, Knowledge Graph Construction, Knowledge Graph Completion, and the fine-tuning and in-context learning of Large Language Models (LLMs). You can contact him at manzoor@campus.uni-paderborn.de or via chat at @manzoor:chat.dice-research.org. He is involved in the KIAM project and his publications are tagged with ""manzoor."" His photo is available at mali.jpg."
+48,"https://dice-research.org/ElizaSimpson https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/office 
+https://dice-research.org/ElizaSimpson http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/fax tel:
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/email mailto:elizashaw16@gmail.com
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/phone tel:+49-163-48-09684
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/photo simpson.jpg
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/chat @esimpson:chat.dice-research.org
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/content 
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/namePrefix 
+https://dice-research.org/ElizaSimpson https://schema.dice-research.org/name Eliza Simpson
+","Eliza Simpson is an alumnus of DICE Research. She has an office at the organization. Eliza Simpson is a person with a fax number, an email address of elizashaw16@gmail.com, and a phone number of +49-163-48-09684. Her photo is named simpson.jpg, and she can be reached via chat at @esimpson:chat.dice-research.org. Her name is Eliza Simpson."
+49,"https://dice-research.org/DanielObraczka https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/DanielObraczka https://schema.dice-research.org/email mailto:
+https://dice-research.org/DanielObraczka https://schema.dice-research.org/namePrefix 
+https://dice-research.org/DanielObraczka https://schema.dice-research.org/photo obraczka.jpg
+https://dice-research.org/DanielObraczka https://schema.dice-research.org/office 
+https://dice-research.org/DanielObraczka https://schema.dice-research.org/name Daniel Obraczka
+https://dice-research.org/DanielObraczka https://schema.dice-research.org/content 
+https://dice-research.org/DanielObraczka https://schema.dice-research.org/fax tel:
+https://dice-research.org/DanielObraczka http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/DanielObraczka https://schema.dice-research.org/phone tel:
+","Daniel Obraczka is an alumnus of DICE Research. His photo is named ""obraczka.jpg."" He has an office, and his name is Daniel Obraczka. He has a fax and phone number, and he is a person. His email address is available."
+50,"https://dice-research.org/MaqboolKhan https://schema.dice-research.org/content 
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/project https://dice-research.org/IDA
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/name Maqbool Khan
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/fax tel:
+https://dice-research.org/MaqboolKhan http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/photo 
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/email mailto:
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/office 
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/phone tel:
+https://dice-research.org/MaqboolKhan https://schema.dice-research.org/namePrefix 
+","Maqbool Khan is a person who was part of the DICE Research Organization as an alumnus. He was involved in the IDA project and has published content related to the organization. His contact information includes a phone number and an email address, and he has a photo and an office listed. However, specific details such as his fax number, name prefix, and exact contact information are not provided."
+51,"https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/photo 
+https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/email mailto:
+https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/office 
+https://dice-research.org/HussainAbidSyed http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/phone tel:
+https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/namePrefix 
+https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/name Hussain Abid Syed
+https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/fax tel:
+https://dice-research.org/HussainAbidSyed https://schema.dice-research.org/content 
+","Hussain Abid Syed is a person who was an alumnus of DICE Research. He has a photo, an email address, an office, a phone number, and a fax number. His name prefix is not specified."
+52,"https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/project https://dice-research.org/SLIPO
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/project https://dice-research.org/Ingrid
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/namePrefix 
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/phone tel:
+https://dice-research.org/SvetlanaPestryakova http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/photo pestryakova.jpg
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/fax tel:
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/content 
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/office 
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/name Svetlana Pestryakova
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/chat @pestryak:chat.dice-research.org
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/email mailto:pestryak@mail.uni-paderborn.de
+https://dice-research.org/SvetlanaPestryakova https://schema.dice-research.org/role https://dice-research.org/Alumni
+","Svetlana Pestryakova is an alumnus of DICE Research, involved in projects such as SLIPO, OPAL, and Ingrid. Her name is Svetlana Pestryakova, and she has a photo named ""pestryakova.jpg."" She can be reached via phone, fax, email at pestrjak@mail.uni-paderborn.de, and chat at @pestryak:chat.dice-research.org. Her office and additional content are available on the DICE Research website."
+53,"https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/phone tel:+49-5251-60-5192
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/email mailto:msohail@campus.uni-paderborn.de
+https://dice-research.org/MuhammadSohailNisar http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/photo sohail.jpg
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/chat @msohail:chat.dice-research.org
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/fax tel:
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/content 
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/namePrefix 
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/office TP6.3.304
+https://dice-research.org/MuhammadSohailNisar https://schema.dice-research.org/name Muhammad Sohail Nisar
+","Muhammad Sohail Nisar is a research staff member at DICE Research. His contact information includes the phone number +49-5251-60-5192, email msohail@campus.uni-paderborn.de, and chat handle @msohail:chat.dice-research.org. His office is located at TP6.3.304, and his photo is available as sohail.jpg."
+54,"https://dice-research.org/LissHeidrich https://schema.dice-research.org/content 
+https://dice-research.org/LissHeidrich https://schema.dice-research.org/project https://dice-research.org/Tentris
+https://dice-research.org/LissHeidrich https://schema.dice-research.org/chat @hbrian:chat.dice-research.org
+https://dice-research.org/LissHeidrich https://schema.dice-research.org/email mailto:liss.heidrich@uni-paderborn.de
+https://dice-research.org/LissHeidrich https://schema.dice-research.org/role https://dice-research.org/Infrastructure
+https://dice-research.org/LissHeidrich https://schema.dice-research.org/namePrefix 
+https://dice-research.org/LissHeidrich https://schema.dice-research.org/name Liss Heidrich
+https://dice-research.org/LissHeidrich http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Liss Heidrich is a person involved in the DICE Research project Tentris. They are associated with the Infrastructure role and can be reached via chat at @hbrian:chat.dice-research.org and by email at mailto:liss.heidrich@uni-paderborn.de.
+55,"https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/fax tel:+49-525-16-03436
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/email mailto:desouki@mail.upb.de
+https://dice-research.org/AbdelmoneimAmerDesouki http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/phone tel:+49-525-16-01761
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/name Abdelmoneim Mahmoud Amer Desouki
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/office TP6.3.306
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/content  
+  <p>
+  <b> ResearchGate:</b> <a
+     href=""https://www.researchgate.net/profile/Abdelmoneim_Desouki"">Abdelmoneim_Desouki</a><span
+     class=MsoHyperlink><b><span style='font-size:12.0pt;color:windowtext;
+     text-decoration:none;text-underline:none'><o:p></o:p></span></b></span></li>
+</p>
+<p>
+  <b> Google scholar:</b> <a
+href=""https://scholar.google.com/citations?user=q5MLF20AAAAJ&amp;hl=en"">Abdelmoneim Amer Desouki</a><span
+style='font-size:12.0pt;mso-bidi-font-weight:bold'><o:p></o:p></span></p>
+</p>
+
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/photo desouki.jpg
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/AbdelmoneimAmerDesouki https://schema.dice-research.org/chat @desouki:chat.dice-research.org
+","Abdelmoneim Mahmoud Amer Desouki, a former member of DICE Research, can be reached via fax at +49-525-16-03436, email at desouki@mail.upb.de, or phone at +49-525-16-01761. His office is located at TP6.3.306. His role is listed as an alumnus, and he was involved in the OPAL project. His research can be found on ResearchGate and Google Scholar. He has a photo available named desouki.jpg and can be contacted via chat at @desouki:chat.dice-research.org. His name prefix is Dr."
+56,"https://dice-research.org/DenizInan https://schema.dice-research.org/content 
+https://dice-research.org/DenizInan https://schema.dice-research.org/phone tel:+49-160-72-05492
+https://dice-research.org/DenizInan https://schema.dice-research.org/office 
+https://dice-research.org/DenizInan https://schema.dice-research.org/email mailto:dice-webteam@gmx.de
+https://dice-research.org/DenizInan https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/DenizInan https://schema.dice-research.org/photo inan.jpg
+https://dice-research.org/DenizInan http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/DenizInan https://schema.dice-research.org/namePrefix 
+https://dice-research.org/DenizInan https://schema.dice-research.org/name Deniz Inan
+https://dice-research.org/DenizInan https://schema.dice-research.org/fax tel:
+","Deniz Inan is an alumnus of DICE Research. Their office photo is available as ""inan.jpg"". Deniz can be contacted via email at dice-webteam@gmx.de and by phone at +49-160-72-05492."
+57,"https://dice-research.org/SimoneAuinger https://schema.dice-research.org/role https://dice-research.org/Secretary
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/photo auinger.jpg
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/name Simone Auinger
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/chat @mone:chat.dice-research.org
+https://dice-research.org/SimoneAuinger http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/fax tel:+49-525-16-03436
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/phone tel:+49-525-16-01764
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/email mailto:mone@upb.de
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/office TP6.3.107
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/content 
+
+## Regular office hours:
+  
+  - Tuesdays 9-11 a.m.
+  - Thursdays 9-11 a.m.
+  
+https://dice-research.org/SimoneAuinger https://schema.dice-research.org/namePrefix 
+","Simone Auinger is the Secretary at DICE Research. Her photo is available as auinger.jpg. She can be reached via chat at @mone:chat.dice-research.org, by email at mone@upb.de, by phone at tel:+49-525-16-01764, and by fax at tel:+49-525-16-03436. Her office is located at TP6.3.107. Her regular office hours are Tuesdays and Thursdays from 9-11 a.m."
+58,"https://dice-research.org/LukasBlübaum https://schema.dice-research.org/content 
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/email mailto:lukasbl@campus.uni-paderborn.de
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/photo bluehbaum.jpg
+https://dice-research.org/LukasBlübaum http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/office 
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/phone tel:
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/name Lukas Blübaum
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/fax tel:
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/chat @lukasbl:chat.dice-research.org
+https://dice-research.org/LukasBlübaum https://schema.dice-research.org/namePrefix 
+","Lukas Blübaum is an alumnus of DICE Research. His email is lukasbl@campus.uni-paderborn.de, and his photo is named bluehbaum.jpg. He is available for chat at @lukasbl:chat.dice-research.org. His office and phone details are not specified."
+59,"https://dice-research.org/QuannianZhang http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/name Quannian Zhang
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/photo 
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/namePrefix 
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/content 
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/email mailto:quannian@mail.uni-paderborn.de
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/chat @quannian:chat.dice-research.org
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/fax tel:
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/phone tel:
+https://dice-research.org/QuannianZhang https://schema.dice-research.org/office TP6.3.302
+",Quannian Zhang is a research staff member at DICE Research. They are part of the SAIL project and can be contacted via email at quannian@mail.uni-paderborn.de or chat at @quannian:chat.dice-research.org. Quannian's office is located at TP6.3.302.
+60,"https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/email mailto:louis888@mail.uni-paderborn.de
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/content 
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/photo louis.jpg
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/project https://dice-research.org/LEMUR
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/namePrefix 
+https://dice-research.org/LouisMozartKAMDEM http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/fax tel:
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/chat @louis888:chat.dice-research.org
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/office TP6.3.308
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/name KAMDEM Louis Mozart
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/phone tel:+49-1522-5860-322
+https://dice-research.org/LouisMozartKAMDEM https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+","Louis Mozart KAMDEM is a research staff member at DICE Research. His email is louis888@mail.uni-paderborn.de, and he can be reached via chat at @louis888:chat.dice-research.org. His office is located in TP6.3.308, and his phone number is +49-1522-5860-322. He is involved in the LEMUR project, and his photo is available as louis.jpg."
+61,"https://dice-research.org/RenzhongLu https://schema.dice-research.org/email mailto:renzhong@mail.uni-paderborn.de
+https://dice-research.org/RenzhongLu https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/RenzhongLu https://schema.dice-research.org/name Renzhong Lu
+https://dice-research.org/RenzhongLu http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Renzhong Lu is a person who is a student researcher at DICE Research. Their email address is renzhong@mail.uni-paderborn.de.
+62,"https://dice-research.org/LeonieSieger https://schema.dice-research.org/name Leonie N. Sieger
+https://dice-research.org/LeonieSieger http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/LeonieSieger https://schema.dice-research.org/office TP6.3.310
+https://dice-research.org/LeonieSieger https://schema.dice-research.org/namePrefix 
+https://dice-research.org/LeonieSieger https://schema.dice-research.org/email mailto:leonie.nora.sieger@uni-paderborn.de
+https://dice-research.org/LeonieSieger https://schema.dice-research.org/chat @lnsieger:chat.dice-research.org
+https://dice-research.org/LeonieSieger https://schema.dice-research.org/project https://dice-research.org/TRR318
+https://dice-research.org/LeonieSieger https://schema.dice-research.org/photo sieger.jpg
+https://dice-research.org/LeonieSieger https://schema.dice-research.org/publicationTag sieger
+https://dice-research.org/LeonieSieger https://schema.dice-research.org/role https://dice-research.org/Alumni
+","Leonie N. Sieger is a person who works in office TP6.3.310. Her email is leonie.nora.sieger@uni-paderborn.de, and her chat handle is @lnsieger:chat.dice-research.org. She is associated with the project TRR318 and has a photo named sieger.jpg. Her publication tag is sieger, and she is listed as an alumnus."
+63,"https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/phone tel:
+https://dice-research.org/RicardoUsbeck http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/photo usbeck.jpg
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/project https://dice-research.org/DIESEL
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/project https://dice-research.org/QAMEL
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/office O4.116
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/name Ricardo Usbeck
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/content 
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/email mailto:ricardo.usbeck@uni-paderborn.de
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/chat @usbeck:chat.dice-research.org
+https://dice-research.org/RicardoUsbeck https://schema.dice-research.org/fax tel:+49-525-16-03436
+","Dr. Ricardo Usbeck is a person who has the phone number tel:, an office located at O4.116, and is an alumnus of DICE Research. He is involved in the projects DIESEL and QAMEL. His photo is available at usbeck.jpg. His email is ricardo.usbeck@uni-paderborn.de, and his chat handle is @usbeck:chat.dice-research.org. His fax number is +49-525-16-03436."
+64,"https://dice-research.org/NikolaosKaralis https://schema.dice-research.org/content 
+https://dice-research.org/NikolaosKaralis https://schema.dice-research.org/project https://dice-research.org/Tentris
+https://dice-research.org/NikolaosKaralis https://schema.dice-research.org/project https://dice-research.org/KnowGraphs
+https://dice-research.org/NikolaosKaralis https://schema.dice-research.org/chat @nkaralis:chat.dice-research.org
+https://dice-research.org/NikolaosKaralis https://schema.dice-research.org/email mailto:nkaralis@mail.upb.de
+https://dice-research.org/NikolaosKaralis https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/NikolaosKaralis https://schema.dice-research.org/namePrefix 
+https://dice-research.org/NikolaosKaralis https://schema.dice-research.org/name Nikolaos Karalis
+https://dice-research.org/NikolaosKaralis http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Nikolaos Karalis is a research staff member at DICE Research. He is involved in the projects Tentris and KnowGraphs. His email is nkaralis@mail.upb.de, and he can be reached via chat at @nkaralis:chat.dice-research.org."
+65,"https://dice-research.org/HardikTopiwala https://schema.dice-research.org/office 
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/chat @topiwala:chat.dice-research.org
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/photo 
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/name Hardik Topiwala
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/email mailto:topiwala@mail.uni-paderborn.de
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/content 
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/fax tel:
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/phone tel:
+https://dice-research.org/HardikTopiwala https://schema.dice-research.org/namePrefix 
+https://dice-research.org/HardikTopiwala http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Hardik Topiwala is an alumnus of DICE Research. His office is located at DICE Research, and he can be reached via email at topiwala@mail.uni-paderborn.de and chat at @topiwala:chat.dice-research.org. He has a photo and some additional content available."
+66,"https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/office 
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/content 
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/fax tel:+49-341-97-32329
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/project https://dice-research.org/SAKE
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/project https://dice-research.org/HOBBIT
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/phone tel:+49-341-97-32362
+https://dice-research.org/KleanthiGeorgala http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/name Kleanthi Georgala
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/chat @kleanthi:chat.dice-research.org
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/namePrefix 
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/photo georgala.jpg
+https://dice-research.org/KleanthiGeorgala https://schema.dice-research.org/email mailto:georgala@informatik.uni-leipzig.de
+","Kleanthi Georgala is an alumnus of DICE Research. She has an office and her content is available on the DICE Research schema. Her fax number is +49-341-97-32329, and her phone number is +49-341-97-32362. Kleanthi is involved in the SAKE and HOBBIT projects. Her chat handle is @kleanthi:chat.dice-research.org, and her email is mailto:georgala@informatik.uni-leipzig.de. Her photo is available as georgala.jpg."
+67,"https://dice-research.org/NadineJochimsen https://schema.dice-research.org/photo jochimsen.jpg
+https://dice-research.org/NadineJochimsen https://schema.dice-research.org/chat @jochimse:chat.dice-research.org
+https://dice-research.org/NadineJochimsen https://schema.dice-research.org/email mailto:nadine.jochimsen@uni-paderborn.de
+https://dice-research.org/NadineJochimsen https://schema.dice-research.org/role https://dice-research.org/Management
+https://dice-research.org/NadineJochimsen https://schema.dice-research.org/namePrefix 
+https://dice-research.org/NadineJochimsen https://schema.dice-research.org/name Nadine Jochimsen
+https://dice-research.org/NadineJochimsen http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Nadine Jochimsen is a person who holds a management role at DICE Research. Her photo is available at jochimsen.jpg, and she can be contacted via chat at @jochimse:chat.dice-research.org or by email at nadine.jochimsen@uni-paderborn.de."
+68,"https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/fax tel:
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/email mailto:gsjunior@mail.uni-paderborn.de
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/office TP6.3.309
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/content 
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/project https://dice-research.org/SQUIRREL
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/project https://dice-research.org/OpenTrafficDetection
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/namePrefix 
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/phone tel:+49-525-16-03763
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/chat @gsjunior:chat.dice-research.org
+https://dice-research.org/GeraldoDeSouza http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/name Geraldo de Souza
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/photo souza.jpg
+https://dice-research.org/GeraldoDeSouza https://schema.dice-research.org/role https://dice-research.org/Alumni
+","Geraldo de Souza is an alumnus of DICE Research. His office is located at TP6.3.309, and he can be reached by phone at +49-525-16-03763, by email at mailto:gsjunior@mail.uni-paderborn.de, and by chat at @gsjunior:chat.dice-research.org. Geraldo was involved in the projects SQUIRREL, OPAL, and OpenTrafficDetection. His photo is available as souza.jpg."
+69,"https://dice-research.org/TommasoSoru https://schema.dice-research.org/phone tel:
+https://dice-research.org/TommasoSoru http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/TommasoSoru https://schema.dice-research.org/office 
+https://dice-research.org/TommasoSoru https://schema.dice-research.org/email mailto:
+https://dice-research.org/TommasoSoru https://schema.dice-research.org/content 
+https://dice-research.org/TommasoSoru https://schema.dice-research.org/fax tel:
+https://dice-research.org/TommasoSoru https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/TommasoSoru https://schema.dice-research.org/name Tommaso Soru
+https://dice-research.org/TommasoSoru https://schema.dice-research.org/namePrefix 
+https://dice-research.org/TommasoSoru https://schema.dice-research.org/photo soru.jpg
+","Tommaso Soru is a person who is an alumnus of DICE Research. He has a phone number, an office, an email address, and a fax number. His name prefix is not specified, and his photo is named ""soru.jpg""."
+70,"https://dice-research.org/FakhrShaheen https://schema.dice-research.org/content 
+https://dice-research.org/FakhrShaheen https://schema.dice-research.org/project https://dice-research.org/Tentris
+https://dice-research.org/FakhrShaheen https://schema.dice-research.org/photo shaheen.jpg
+https://dice-research.org/FakhrShaheen https://schema.dice-research.org/email mailto:fakhrshaheen@gmail.com
+https://dice-research.org/FakhrShaheen https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/FakhrShaheen https://schema.dice-research.org/name Fakhr Shaheen
+https://dice-research.org/FakhrShaheen http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Fakhr Shaheen is an alumnus of DICE Research. They worked on the Tentris project and their role is listed as an alumnus. Fakhr's email is fakhrshaheen@gmail.com, and their photo is available as shaheen.jpg."
+71,"https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/office 
+https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/content 
+https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/fax tel:
+https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/email mailto:
+https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/phone tel:
+https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/name André Valdestilhas
+https://dice-research.org/AndréValdestilhas http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AndréValdestilhas https://schema.dice-research.org/photo valdestilhas.jpg
+","André Valdestilhas is an alumnus of DICE Research. His office is located at DICE Research, and his photo is available as valdestilhas.jpg. He can be reached by phone, fax, and email."
+72,"https://dice-research.org/LixiConrads https://schema.dice-research.org/content 
+https://dice-research.org/LixiConrads https://schema.dice-research.org/email mailto:
+https://dice-research.org/LixiConrads https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/LixiConrads https://schema.dice-research.org/namePrefix 
+https://dice-research.org/LixiConrads https://schema.dice-research.org/name Lixi Conrads
+https://dice-research.org/LixiConrads http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Lixi Conrads is a person and an alumnus of DICE Research. Their email is not publicly listed, and they have no name prefix."
+73,"https://dice-research.org/MarcBohler https://schema.dice-research.org/content 
+https://dice-research.org/MarcBohler https://schema.dice-research.org/chat @mbohler:chat.dice-research.org
+https://dice-research.org/MarcBohler https://schema.dice-research.org/email mailto:mbohler@campus.uni-paderborn.de
+https://dice-research.org/MarcBohler https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/MarcBohler https://schema.dice-research.org/namePrefix 
+https://dice-research.org/MarcBohler https://schema.dice-research.org/name Marc Bohler
+https://dice-research.org/MarcBohler http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Marc Bohler is a student researcher at DICE Research. He can be reached at mbohler@campus.uni-paderborn.de and on chat at @mbohler:chat.dice-research.org.
+74,"https://dice-research.org/ArwaBannoura http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/content 
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/project https://dice-research.org/DATEV
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/email mailto:arwa.bannoura@uni-paderborn.de
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/name Arwa Bannoura
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/fax tel:
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/chat @bannoura:chat.dice-research.org
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/office TP6.3.308
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/phone tel:+49-525-16-05189
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/photo bannoura.jpg
+https://dice-research.org/ArwaBannoura https://schema.dice-research.org/namePrefix Dr. rer. nat.
+","Arwa Bannoura, a person with the title Dr. rer. nat., is an alumnus of DICE Research. She has been involved in the projects DATEV and OPAL. Her office is located at TP6.3.308, and she can be reached via email at arwa.bannoura@uni-paderborn.de, phone at +49-525-16-05189, and chat at @bannoura:chat.dice-research.org. Her photo is available as bannoura.jpg."
+75,"https://dice-research.org/NehaPokharel https://schema.dice-research.org/content 
+https://dice-research.org/NehaPokharel https://schema.dice-research.org/project https://dice-research.org/GERBIL
+https://dice-research.org/NehaPokharel https://schema.dice-research.org/photo neha.jpg
+https://dice-research.org/NehaPokharel https://schema.dice-research.org/email mailto:neha2022@mail.uni-paderborn.de
+https://dice-research.org/NehaPokharel https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/NehaPokharel https://schema.dice-research.org/namePrefix 
+https://dice-research.org/NehaPokharel https://schema.dice-research.org/name Neha Pokharel
+https://dice-research.org/NehaPokharel http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Neha Pokharel is a student researcher at DICE Research. She is involved in the GERBIL project. Her email is neha2022@mail.uni-paderborn.de, and her photo is available as neha.jpg."
+76,"https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/content 
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/photo bigerl.jpg
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/office TP6.3.108
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/phone tel:+49-5251-60-1760
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/email mailto:alexander.bigerl@uni-paderborn.de
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/chat @bigerl:chat.dice-research.org
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/name Alexander Bigerl
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AlexanderBigerl http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+https://dice-research.org/AlexanderBigerl https://schema.dice-research.org/fax tel:
+","Alexander Bigerl is a research staff member at DICE Research. He works in office TP6.3.108 and can be reached by phone at +49-5251-60-1760, by email at alexander.bigerl@uni-paderborn.de, and via chat at @bigerl:chat.dice-research.org. His photo is available at bigerl.jpg."
+77,"https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/name Lennart Austenfeld
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/office 
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/phone tel:
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/photo 
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/content 
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/namePrefix 
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/LennartAustenfeld http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/fax tel:
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/email mailto:
+https://dice-research.org/LennartAustenfeld https://schema.dice-research.org/chat @lennarta:chat.dice-research.org
+","Lennart Austenfeld is a student researcher at DICE Research. He has an office, a phone number, a fax number, an email address, and a chat handle (@lennarta:chat.dice-research.org). His profile includes a photo and additional content."
+78,"https://dice-research.org/ZafarSyed https://schema.dice-research.org/publicationTag syed
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/chat @zsyed:chat.dice-research.org
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/phone tel:+49-176-41-976922
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/fax tel:
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/name Zafar Syed
+https://dice-research.org/ZafarSyed http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/email mailto:zsyed@mail.uni-paderborn.de
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/photo syed.jpg
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/namePrefix 
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/content 
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/project https://dice-research.org/OPAL
+https://dice-research.org/ZafarSyed https://schema.dice-research.org/office TP6.3.103
+","Zafar Syed is an alumnus of DICE Research. He can be reached at +49-176-41-976922 and his email is zsyed@mail.uni-paderborn.de. His chat handle is @zsyed on chat.dice-research.org, and his office is located at TP6.3.103. Zafar was involved in the OPAL project, and his photo is available as syed.jpg."
+79,"https://dice-research.org/RrichaJalota https://schema.dice-research.org/content 
+https://dice-research.org/RrichaJalota https://schema.dice-research.org/photo jalota.jpg
+https://dice-research.org/RrichaJalota https://schema.dice-research.org/chat @rjalota:chat.dice-research.org
+https://dice-research.org/RrichaJalota https://schema.dice-research.org/email mailto:rricha.jalota@uni-paderborn.de
+https://dice-research.org/RrichaJalota https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/RrichaJalota https://schema.dice-research.org/namePrefix 
+https://dice-research.org/RrichaJalota https://schema.dice-research.org/name Rricha Jalota
+https://dice-research.org/RrichaJalota http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Rricha Jalota is a person and an alumnus of DICE Research. She has a photo named ""jalota.jpg"". Her chat handle is @rjalota on chat.dice-research.org, and her email is rricha.jalota@uni-paderborn.de."
+80,"https://dice-research.org/SheetalSatheesh https://schema.dice-research.org/email mailto:sheetal@campus.uni-paderborn.de
+https://dice-research.org/SheetalSatheesh https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/SheetalSatheesh https://schema.dice-research.org/name Sheetal Satheesh
+https://dice-research.org/SheetalSatheesh http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Sheetal Satheesh is a person who is a student researcher at DICE Research. Her email is mailto:sheetal@campus.uni-paderborn.de.
+81,"https://dice-research.org/ArnabSharma https://schema.dice-research.org/fax tel:
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/name Arnab Sharma
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/project https://dice-research.org/SAIL
+https://dice-research.org/ArnabSharma http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/content 
+
+## Research Interest
+
+My research interests include but are not limited to,
+* Robustness in graph machine learning
+* Explainable machine learning
+* Inductive knowledge graph embedding
+* Security in graph machine learning 
+
+
+
+
+
+
+
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/namePrefix Dr. rer. nat.
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/phone tel:+49-525-16-05186
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/email mailto:arnab.sharma@uni-paderborn.de
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/office TP6.3.109
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/chat @asharma:chat.dice-research.org
+https://dice-research.org/ArnabSharma https://schema.dice-research.org/photo arnab.jpg
+","Dr. rer. nat. Arnab Sharma is a Senior Researcher at DICE Research. He is involved in the SAIL project and his research interests include robustness in graph machine learning, explainable machine learning, inductive knowledge graph embedding, and security in graph machine learning. You can reach him at tel:+49-525-16-05186, email: arnab.sharma@uni-paderborn.de, or chat: @asharma:chat.dice-research.org. His office is located at TP6.3.109, and his photo is available as arnab.jpg."
+82,"https://dice-research.org/ShivamSharma https://schema.dice-research.org/content 
+  <p>
+  <b>Linkedin </b><a href=""https://www.linkedin.com/in/shivamsharma95/""> &ensp;Shivam Sharma </a>
+  </p>
+  
+https://dice-research.org/ShivamSharma https://schema.dice-research.org/project https://dice-research.org/WHALE
+https://dice-research.org/ShivamSharma https://schema.dice-research.org/photo shivamsharma.jpg
+https://dice-research.org/ShivamSharma https://schema.dice-research.org/chat @sshivam:chat.dice-research.org
+https://dice-research.org/ShivamSharma https://schema.dice-research.org/email mailto:sshivam@mail.uni-paderborn.de
+https://dice-research.org/ShivamSharma https://schema.dice-research.org/phone tel:+49-159-06-423973
+https://dice-research.org/ShivamSharma https://schema.dice-research.org/role https://dice-research.org/Infrastructure
+https://dice-research.org/ShivamSharma https://schema.dice-research.org/name Shivam Sharma
+https://dice-research.org/ShivamSharma http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Shivam Sharma is a person involved in the WHALE project at DICE Research. His role is in infrastructure. You can find him on LinkedIn, chat with him at @sshivam:chat.dice-research.org, email him at sshivam@mail.uni-paderborn.de, or call him at +49-159-06-423973. His photo is available as shivamsharma.jpg."
+83,"https://dice-research.org/AdamSotona https://schema.dice-research.org/photo 
+https://dice-research.org/AdamSotona https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AdamSotona https://schema.dice-research.org/phone tel:
+https://dice-research.org/AdamSotona https://schema.dice-research.org/content 
+https://dice-research.org/AdamSotona https://schema.dice-research.org/email mailto:
+https://dice-research.org/AdamSotona http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/AdamSotona https://schema.dice-research.org/fax tel:
+https://dice-research.org/AdamSotona https://schema.dice-research.org/office 
+https://dice-research.org/AdamSotona https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/AdamSotona https://schema.dice-research.org/name Adam Sotona
+","Adam Sotona is an alumnus of DICE Research. He has a photo, a name prefix, a phone number, and an email address. He also has a fax number and an office. His role is listed as an alumnus."
+84,"https://dice-research.org/AlexanderBecker https://schema.dice-research.org/email mailto:beckeral@campus.uni-paderborn.de
+https://dice-research.org/AlexanderBecker https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/AlexanderBecker https://schema.dice-research.org/name Alexander Becker
+https://dice-research.org/AlexanderBecker http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Alexander Becker is a student researcher at DICE Research. His email address is mailto:beckeral@campus.uni-paderborn.de.
+85,"https://dice-research.org/PaulSpooren https://schema.dice-research.org/content 
+https://dice-research.org/PaulSpooren https://schema.dice-research.org/project https://dice-research.org/GEISER
+https://dice-research.org/PaulSpooren https://schema.dice-research.org/email mailto:spooren@informatik.uni-leipzig.de
+https://dice-research.org/PaulSpooren https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/PaulSpooren https://schema.dice-research.org/name Paul Spooren
+https://dice-research.org/PaulSpooren http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Paul Spooren is an alumnus of DICE Research. He was involved in the GEISER project and his email is spooren@informatik.uni-leipzig.de.
+86,"https://dice-research.org/KevinDreßler https://schema.dice-research.org/project https://dice-research.org/LIMBO
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/project https://dice-research.org/SLIPO
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/photo dressler.jpg
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/name Kevin Dreßler
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/email mailto:kevin.dressler@upb.de
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/content 
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/fax tel:
+https://dice-research.org/KevinDreßler http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/chat @kdr:chat.dice-research.org
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/phone tel:+49-525-16-05190
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/namePrefix 
+https://dice-research.org/KevinDreßler https://schema.dice-research.org/office TP6.3.302
+","Kevin Dreßler is an alumnus of DICE Research. He was involved in the LIMBO and SLIPO projects. His photo is available as ""dressler.jpg"". His role is listed as Alumni. His email is kevin.dressler@upb.de, and his phone number is +49-525-16-05190. He can be reached via chat at @kdr:chat.dice-research.org. His office is located at TP6.3.302."
+87,"https://dice-research.org/AjayKumar https://schema.dice-research.org/content  I am a computer science student interested in integration and automation.
+https://dice-research.org/AjayKumar https://schema.dice-research.org/project https://dice-research.org/ClimatebOWL
+https://dice-research.org/AjayKumar https://schema.dice-research.org/photo ajayKumar.jpeg
+https://dice-research.org/AjayKumar https://schema.dice-research.org/email mailto:ajayk@campus.uni-paderborn.de
+https://dice-research.org/AjayKumar https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/AjayKumar https://schema.dice-research.org/name Ajay Kumar
+https://dice-research.org/AjayKumar http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Ajay Kumar is a computer science student interested in integration and automation. He is a student researcher working on the ClimatebOWL project. His email is ajayk@campus.uni-paderborn.de, and his photo is available as ajayKumar.jpeg."
+88,"https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/fax tel:
+https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/chat 
+https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/namePrefix 
+https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/content 
+https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/office 
+https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/email mailto:hizkiel.alemayehu@uni-paderborn.de
+https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/photo 
+https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/name Hizkiel Mitiku Alemayehu
+https://dice-research.org/HizkielAkemayehu http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/HizkielAkemayehu https://schema.dice-research.org/role https://dice-research.org/ResearchStaff
+","Hizkiel Mitiku Alemayehu is a research staff member at DICE Research. He has an email address, hizkiel.alemayehu@uni-paderborn.de, and his contact information includes a fax number, chat details, and an office location. His name prefix and a photo are also available."
+89,"https://dice-research.org/KshitijShetty https://schema.dice-research.org/email mailto:kshitij@mail.uni-paderborn.de
+https://dice-research.org/KshitijShetty https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/KshitijShetty https://schema.dice-research.org/name Kshitij Shetty
+https://dice-research.org/KshitijShetty http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Kshitij Shetty is a student researcher at DICE Research. His email address is kshitij@mail.uni-paderborn.de.
+90,"https://dice-research.org/YasirMahmood https://schema.dice-research.org/role https://dice-research.org/SeniorResearcher
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/name Yasir Mahmood
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/content 
+
+## Research Interests
+
+My research is mainly in the following areas:
+
+* Theoretical Computer Science
+* Computational (Parameterized) Complexity Theory
+* Mathematical Logic
+* Knowledge Representation and Reasoning
+* Description Logics
+
+Feel free to write me if you are interested in a collaboration (or writing a thesis) covering any of the following topics.
+
+* Theory of Argumentation 
+* Abductive Reasoning 
+* Complexity Theory 
+* Database/Ontology Repairing
+
+
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/phone tel:
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/fax tel:
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/project https://dice-research.org/ENEXA
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/chat @ymahmood:chat.dice-research.org
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/namePrefix Dr.
+https://dice-research.org/YasirMahmood http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/email mailto:yasir.mahmood@uni-paderborn.de
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/office TP6.3.303
+https://dice-research.org/YasirMahmood https://schema.dice-research.org/photo ymahmood.jpg
+","Dr. Yasir Mahmood is a Senior Researcher at DICE Research. His research interests include Theoretical Computer Science, Computational (Parameterized) Complexity Theory, Mathematical Logic, Knowledge Representation and Reasoning, and Description Logics. He is open to collaborations or thesis proposals in areas such as Theory of Argumentation, Abductive Reasoning, Complexity Theory, and Database/Ontology Repairing. You can contact him via email at yasir.mahmood@uni-paderborn.de, chat at @ymahmood:chat.dice-research.org, or visit his office at TP6.3.303. Dr. Mahmood is currently involved in the ENEXA project."
+91,"https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/office 
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/email mailto:
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/fax tel:
+https://dice-research.org/SpoorthiMadhavan http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/name Spoorthi Madhavan
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/phone tel:
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/project https://dice-research.org/IDA
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/content 
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/role https://dice-research.org/Alumni
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/namePrefix 
+https://dice-research.org/SpoorthiMadhavan https://schema.dice-research.org/photo 
+","Spoorthi Madhavan is a person who was part of the DICE Research organization. She held the role of an alumnus and was involved in the IDA project. Her office, email, fax, and phone details are available. However, her name prefix, photo, and additional content are not specified."
+92,"https://dice-research.org/AlkidBaci https://schema.dice-research.org/email mailto:alkid@campus.uni-paderborn.de
+https://dice-research.org/AlkidBaci https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/AlkidBaci https://schema.dice-research.org/name Alkid Baci
+https://dice-research.org/AlkidBaci http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Alkid Baci is a student researcher at DICE Research, and their email address is alkid@campus.uni-paderborn.de."
+93,"https://dice-research.org/PalaniappanMuthuraman https://schema.dice-research.org/email mailto:palani@campus.uni-paderborn.de
+https://dice-research.org/PalaniappanMuthuraman https://schema.dice-research.org/role https://dice-research.org/StudentResearcher
+https://dice-research.org/PalaniappanMuthuraman https://schema.dice-research.org/name Palaniappan Muthuraman
+https://dice-research.org/PalaniappanMuthuraman http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+",Palaniappan Muthuraman is a student researcher at DICE Research. His email is palani@campus.uni-paderborn.de.
+94,"https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/content 
+https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/namePrefix 
+https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/fax tel:
+https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/office ZU 530, Gustav-Freytag-Straße 42a, 04277 Leipzig
+https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/name Aleksandr Perevalov
+https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/photo perevalov.jpg
+https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/role https://dice-research.org/ExternalStudent
+https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/email mailto:alpe@mail.uni-paderborn.de
+https://dice-research.org/AleksandrPerevalov https://schema.dice-research.org/chat 
+https://dice-research.org/AleksandrPerevalov http://www.w3.org/1999/02/22-rdf-syntax-ns#type https://schema.dice-research.org/Person
+","Aleksandr Perevalov is an external student at DICE Research, located in office ZU 530 at Gustav-Freytag-Straße 42a, 04277 Leipzig. His photo is available as perevalov.jpg, and he can be contacted via email at alpe@mail.uni-paderborn.de."
