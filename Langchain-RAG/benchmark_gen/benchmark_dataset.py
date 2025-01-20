@@ -1,5 +1,5 @@
 """  
-$ python benchmark_dataset.py [-h] [--input INPUT] [--output OUTPUT] [--num_questions NUM_QUESTIONS]
+$ python benchmark_dataset.py [-h] [--input INPUT] [--output OUTPUT] [--num_questions NUM_QUESTIONS] [--csv_source_column CSV_SOURCE_COLUMN] [--llm LLM] [--embed EMBED]
 
 ##################################################
 Benchmark Dataset Generation for RAG Evaluation
@@ -12,6 +12,9 @@ Input & Usage:
         --input: Path to input document
         --output: Path to output file (default: benchmark_dataset.json)
         --num_questions: Number of questions to generate (default: 10)
+        --csv_source_column: Source column for CSV files
+        --llm: Base URL for the LLM API (default: TENTRIS_BASE_URL_CHAT)
+        --embed: Base URL for the embedding API (default: TENTRIS_BASE_URL_EMBEDDINGS)
     - Required environment variables:
         - TENTRIS_API_KEY: API key for authentication
         - TENTRIS_BASE_URL_CHAT: Base URL for the chat API
@@ -70,6 +73,7 @@ from giskard.rag import KnowledgeBase, generate_testset
 from giskard.llm.client.openai import OpenAIClient
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_community.document_loaders.csv_loader import CSVLoader   
 
 # def setup_environment():
 #     """Load and check environment variables"""
@@ -101,32 +105,36 @@ def parse_arguments():
                       help='Path to output JSON file (default: benchmark_dataset.json)')
     parser.add_argument('--num_questions', type=int, default=10,
                       help='Number of questions to generate (default: 10)')
+    parser.add_argument('--csv_source_column', type=str, default=None, help='Source column for CSV files')
+    parser.add_argument('--llm', type=str, default=os.getenv("TENTRIS_BASE_URL_CHAT", "http://tentris-ml.cs.upb.de:8501/v1"), help='Base URL for the LLM API')
+    parser.add_argument('--embed', type=str, default=os.getenv("TENTRIS_BASE_URL_EMBEDDINGS", "http://tentris-ml.cs.upb.de:8502/v1"), help='Base URL for the embedding API')
     return parser.parse_args()
 
 
-def setup_clients():
+def setup_clients(llm_url, embed_url):
     """Initialize both chat and embedding clients with LiteLLM"""
     load_dotenv()
     
     api_key = os.getenv("TENTRIS_API_KEY")
-    chat_base_url = os.getenv("TENTRIS_BASE_URL_CHAT")
-    embed_base_url = os.getenv("TENTRIS_BASE_URL_EMBEDDINGS")
     
-    if not all([api_key, chat_base_url, embed_base_url]):
-        raise ValueError("Missing required environment variables")
+    # chat_base_url = os.getenv("TENTRIS_BASE_URL_CHAT")
+    # embed_base_url = os.getenv("TENTRIS_BASE_URL_EMBEDDINGS")
+    
+    if not all(api_key):
+        raise ValueError("Missing required environment variable: TENTRIS_API_KEY")
 
     # Set up chat model in Giskard using LiteLLM's OpenAI compatibility mode
     giskard.llm.set_llm_model(
         "openai/tentris",  
         api_key=api_key,
-        api_base=chat_base_url
+        api_base=llm_url
     )
 
     # Set up embedding model in Giskard
     giskard.llm.set_embedding_model(
         "openai/tentris",  
         api_key=api_key,
-        api_base=embed_base_url
+        api_base=embed_url
     )
 
     # Test connections
@@ -135,7 +143,7 @@ def setup_clients():
         response = litellm.completion(
             model="openai/tentris",
             api_key=api_key,
-            api_base=chat_base_url,
+            api_base=llm_url,
             messages=[{"role": "user", "content": "Test message"}]
         )
         print("Chat connection successful")
@@ -144,7 +152,7 @@ def setup_clients():
         response = litellm.embedding(
             model="openai/tentris",
             api_key=api_key,
-            api_base=embed_base_url,
+            api_base=embed_url,
             input=["Test embedding"]
         )
         print("Embedding connection successful")
@@ -153,9 +161,21 @@ def setup_clients():
         print(f"Connection test failed: {str(e)}")
         raise
 
-def process_document(file_path):
+def process_document(file_path, csv_source_column):
     """Load and split document into chunks"""
-    loader = TextLoader(file_path)
+
+    #Detect file extension
+    file_ext = os.path.splitext(file_path)[1].lower()
+
+    if file_ext == ".csv":
+        if csv_source_column is None:
+            raise ValueError("csv_source_column must be specified for CSV files")
+        loader = CSVLoader(file_path, source_column=csv_source_column)
+    elif file_ext == ".txt":
+        loader = TextLoader(file_path)
+    else:
+        raise ValueError("Unsupported file type")
+    
     documents = loader.load()
     
     splitter = RecursiveCharacterTextSplitter(
@@ -188,10 +208,10 @@ def main():
     args = parse_arguments()
 
     # Setup
-    setup_clients()
+    setup_clients(args.llm, args.embed)
     
     # Process document
-    docs = process_document(args.input)
+    docs = process_document(args.input, args.csv_source_column)
     
     # Create knowledge base and generate tests
     kb = create_knowledge_base(docs)
