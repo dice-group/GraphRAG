@@ -3,3 +3,4 @@ Langchain-RAG/.env
 test1.py
 benchmark_gen/manual/
 
+Langchain-RAG/v1benchmark.py

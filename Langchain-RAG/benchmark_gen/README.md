@@ -1,0 +1,70 @@
+# Langchain-RAG Benchmark Generator
+
+A tool for generating benchmark datasets to evaluate RAG (Retrieval-Augmented Generation) systems. This project generates question-answer pairs from input documents, which can be used to assess the performance of RAG implementations.
+
+## Prerequisites
+
+- Python 3.10 or higher
+- Conda package manager
+- Access to TENTRIS API endpoints
+
+## Quick Setup
+
+1. Clone the repository:
+```bash
+git clone [repository-url]
+cd langchain-RAG/benchmark_gen
+```
+
+2. Create and activate the Conda environment:
+```bash
+conda env create -f environment.yml
+conda activate benchmark_rag
+```
+
+3. Create a .env file based on .env.example:
+```bash
+TENTRIS_API_KEY=your_api_key_here
+```
+## Usage
+
+### Generate benchmark dataset from a text file:
+```bash
+python benchmark_dataset.py --input ../data/speech.txt --llm http://tentris-ml.cs.upb.de:8501/v1 --embed http://tentris-ml.cs.upb.de:8502/v1
+```
+
+### Using CSV with specific column:
+```bash
+python benchmark_dataset.py --input ../data/dice_verbalized.csv --csv_source_column content --llm http://tentris-ml.cs.upb.de:8501/v1 --embed http://tentris-ml.cs.upb.de:8502/v1
+```
+
+## Command Line Arguments
+
+- `--input`: Path to input document (default: "data/speech.txt")
+- `--output`: Path to output JSON file (default: "benchmark_dataset.json")
+- `--num_questions`: Number of questions to generate (default: 10)
+- `--csv_source_column`: Source column for CSV files
+- `--llm`: Base URL for the LLM API
+- `--embed`: Base URL for the embedding API
+
+
+## Output Format
+The script generates a JSON file containing:
+- Generated questions
+- Reference answers
+- Context information
+- Metadata (question type, seed document, topic)
+
+```{
+    "id": "2e4db489-118c-4100-b064-efece27eb3e8",
+    "question": "What are the contact details for Dr. Yasir Mahmood?",
+    "reference_answer": "Dr. Yasir Mahmood can be contacted via email at yasir.mahmood@uni-paderborn.de...",
+    "reference_context": "Document 33: Hizkiel Mitiku Alemayehu is...",
+    "conversation_history": [],
+    "metadata": {
+        "question_type": "simple",
+        "seed_document_id": 33,
+        "topic": "Others"
+    }
+}
+```
