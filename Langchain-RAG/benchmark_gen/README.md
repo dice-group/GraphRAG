@@ -55,16 +55,18 @@ The script generates a JSON file containing:
 - Context information
 - Metadata (question type, seed document, topic)
 
-```{
-    "id": "2e4db489-118c-4100-b064-efece27eb3e8",
-    "question": "What are the contact details for Dr. Yasir Mahmood?",
-    "reference_answer": "Dr. Yasir Mahmood can be contacted via email at yasir.mahmood@uni-paderborn.de...",
-    "reference_context": "Document 33: Hizkiel Mitiku Alemayehu is...",
-    "conversation_history": [],
-    "metadata": {
-        "question_type": "simple",
-        "seed_document_id": 33,
-        "topic": "Others"
-    }
+
+```
+{
+  "id": "acc80340-2a9e-469f-96d0-e2ba25d45454",
+  "question": "What are Caglar Demir's research interests?",
+  "reference_answer": "Caglar Demir's research interests focus on scalable algorithms for learning and reasoning on knowledge graphs.",
+  "reference_context": "Caglar Demir is a Senior Researcher at DICE Research. His research interests include scalable algorithms for learning and reasoning on knowledge graphs. He is involved in projects such as LEMUR and SAIL.",
+  "conversation_history": [],
+  "metadata": {
+    "question_type": "simple",
+    "seed_document_id": 3,
+    "topic": "Others"
+  }
 }
 ```
