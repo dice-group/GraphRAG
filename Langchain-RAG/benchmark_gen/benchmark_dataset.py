@@ -99,7 +99,7 @@ from langchain_community.document_loaders.csv_loader import CSVLoader
 def parse_arguments():
     """Parse command line arguments"""
     parser = argparse.ArgumentParser(description='Generate benchmark dataset for RAG evaluation')
-    parser.add_argument('--input', type=str, default="data/speech.txt",
+    parser.add_argument('--input', type=str, default="../data/speech.txt",
                       help='Path to input document (default: data/speech.txt)')
     parser.add_argument('--output', type=str, default="benchmark_dataset.json",
                       help='Path to output JSON file (default: benchmark_dataset.json)')

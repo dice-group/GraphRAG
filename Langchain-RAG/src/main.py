@@ -6,6 +6,11 @@ from langchain.embeddings.base import Embeddings
 import openai
 import os
 from dotenv import load_dotenv
+#from langchain_community.document_loaders import RecursiveUrlLoader
+from langchain_community.document_loaders.firecrawl import FireCrawlLoader
+import numpy as np
+from langchain_unstructured import UnstructuredLoader
+from langchain_community.document_loaders.sitemap import SitemapLoader
 
 load_dotenv()
 
@@ -34,11 +39,22 @@ def initialize_qa_system():
     if os.path.exists(index_path):
         db=FAISS.load_local(index_path,embeddings, allow_dangerous_deserialization=True)
     else:
-        # Load and split document
-        loader = TextLoader("data/speech.txt")
+        #Load and split document
+        loader = TextLoader("../Langchain-RAG/src/rdf_extracted.txt")
         documents = loader.load()
+
+        # # loader = FireCrawlLoader(
+        # # api_key="fc-b5dca5216a844695b7faccd9f0fd40e7", url="https://dice-research.org/", mode="map"
+        # # )
+        # # documents = loader.load()
+
         
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=200)
+        # # loader = UnstructuredLoader(web_url="https://dice-research.org/")
+        # # documents = loader.load()
+        # sitemap_loader = SitemapLoader(web_path="https://www.xml-sitemaps.com/download/dice-research.org-2d52ae94b/sitemap.xml?view=1")
+        # documents = sitemap_loader.load()
+        
+        text_splitter = RecursiveCharacterTextSplitter(chunk_size=1500, chunk_overlap=200)
         docs = text_splitter.split_documents(documents)
         db=FAISS.from_documents(docs,embeddings)
         db.save_local(index_path)
