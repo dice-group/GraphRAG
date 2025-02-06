@@ -8,6 +8,14 @@ A tool for generating benchmark datasets to evaluate RAG (Retrieval-Augmented Ge
 - Conda package manager
 - Access to TENTRIS API endpoints
 
+### How Benchmark Dataset is Generated:
+The **Giskard Python library** provides **[RAGET (RAG Evaluation Toolkit)](https://docs.giskard.ai/en/latest/open_source/testset_generation/testset_generation/index.html)**, which automatically generates a benchmark dataset. RAGET works by:
+
+- Generating a list of questions, reference answers, and reference contexts directly from the knowledge base of your RAG system.
+- Producing test datasets that can evaluate the retrieval, generation, and overall quality of your RAG system.
+
+This includes simple questions, as well as more complex variations (e.g., situational, double, or conversational questions) designed to target specific components of the RAG pipeline.
+
 ## Quick Setup
 
 1. Clone the repository:
