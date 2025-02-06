@@ -5,5 +5,5 @@ litellm==1.59.1
 openai==1.59.9
 pandas==2.2.3
 python-dotenv==1.0.1
-setuptools==65.5.0
+setuptools==70.0.0
 streamlit==1.40.1
