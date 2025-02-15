@@ -173,9 +173,10 @@ def process_document(file_path, csv_source_column):
         loader = CSVLoader(file_path, source_column=csv_source_column)
     elif file_ext == ".txt":
         loader = TextLoader(file_path)
+    elif file_ext == ".json":
+        loader = JSONLoader(file_path, jq_schema=".graphs[].quadruples[]", text_content=False)
     else:
-        raise ValueError("Unsupported file type")
-    
+        raise ValueError("Unsupported file format")
     documents = loader.load()
     
     splitter = RecursiveCharacterTextSplitter(
