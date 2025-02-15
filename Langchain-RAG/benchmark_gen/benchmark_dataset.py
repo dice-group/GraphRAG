@@ -74,6 +74,7 @@ from giskard.llm.client.openai import OpenAIClient
 from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_community.document_loaders.csv_loader import CSVLoader   
+from langchain_community.document_loaders.json_loader import JSONLoader
 
 # def setup_environment():
 #     """Load and check environment variables"""
